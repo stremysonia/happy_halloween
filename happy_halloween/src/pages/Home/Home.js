@@ -2,12 +2,13 @@ import React from 'react';
 import './Home.css';
 import Smoke  from '../../components/Smoke/Smoke'
 import Witch from '../../components/Witch/Witch'
+import Blood from '../../components/Blood/Blood'
 
 const Home = () => {
         return (
                 <>
-                    <Witch></Witch>
-                    <Smoke></Smoke>
+                   
+                    <Blood></Blood>
                         <div>
                             <h1 className="title">
                                 <span>E</span>
