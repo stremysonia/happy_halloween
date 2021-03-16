@@ -1,6 +1,5 @@
 import React from 'react';
 import './Home.css';
-// import Clouds from '../../components/Clouds/Clouds'
 import Witch from '../../components/Witch/Witch'
 
 const Home = () => {

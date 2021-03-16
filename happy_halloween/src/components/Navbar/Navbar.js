@@ -5,13 +5,13 @@ const Navbar = () => {
         return (
             <>
                 <ul className="navbar-container">
-                    <li><a href="psychology">Psychology</a>
+                    <li><a className="navbar-links" href="#psychology">Psychology</a>
                     </li>
-                        <li><a href="types">Types of Serial Killers</a>
+                        <li><a className="navbar-links" href="#types">Type of Killers</a>
                         </li>
-                            <li><a href="females">Female Serial Killers</a>
+                            <li><a className="navbar-links" href="#females">Female Serial Killers</a>
                             </li>
-                                <li><a href="males">Male Serial Killers</a>
+                                <li><a className="navbar-links" href="#males">Male Serial Killers</a>
                                 </li>
                 </ul>
             </>

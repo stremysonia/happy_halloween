@@ -1,17 +1,19 @@
-.navbar-container a {
-    text-decoration: none;
-    text-transform: uppercase;
-    color: white;
-    letter-spacing: .3rem;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-    /* flex-direction: column; */
+.navbar-container {
+    letter-spacing: .4rem;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-a {
+li {
+    float: left;
+}
+
+.navbar-links {
+    color: white;
+    text-decoration: none;
     display: flex;
-    justify-content: right;
-    font-size: .9rem;
-    /* font-weight: bold; */
+    padding: 40px;
+    text-transform: uppercase;
 }
