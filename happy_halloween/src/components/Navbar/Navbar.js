@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css';
-import serialkillerslogo from '../../assets/serial-killers-logo.png'
+// import serialkillerslogo from '../../assets/serial-killers-logo.png'
 import Logo from '../Logo/Logo'
 // import design from '../../assets/design.png'
 
