@@ -1,12 +1,17 @@
 import React from 'react';
 import './Home.css';
 import Witch from '../../components/Witch/Witch'
+// import Logo from '../../components/Logo/Logo'
+// import seriallogo from '../../assets/serial-logo.png'
 
 const Home = () => {
         return (
                 <>
                 <Witch></Witch>
-                <div className="">  
+                {/* <Logo></Logo> */}
+
+                {/* <a href="/"><img src={seriallogo} className="logo"></img></a>
+                // <div className="">   */}
                         <a href="#">
                                 <span className="title">
                                         <span className="flicker">E</span>
@@ -16,13 +21,13 @@ const Home = () => {
                                         <span className="flicker">R</span>
                                 </span>
                         </a>
-                                <span className="subtitle-container">
+                                {/* <span className="subtitle-container">
                                         <p className="subtitle">
                                                 <span>AT YOUR OWN RISK</span>
                                                 <span className=""></span>
                                         </p>
-                                </span>
-                    </div>
+                                </span> */}
+                    {/* </div> */}
                 </>
         );
 }

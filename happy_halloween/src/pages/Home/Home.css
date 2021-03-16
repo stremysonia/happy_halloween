@@ -231,7 +231,7 @@ h1 span:nth-child(5)
         -webkit-transform: scale(-1, 1);
         -o-transform: scale(-1, 1);
         -ms-transform: scale(-1, 1);
-        letter-spacing: ;
+        /* letter-spacing: ; */
       /* display: inline-block; */
       /* transform: rotate(90deg); */
 
@@ -255,3 +255,11 @@ h1 span:nth-child(5)
         -o-transform: scale(-1, 1);
         -ms-transform: scale(-1, 1); */
   }
+
+/* .logo {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  top: -4%;
+  left: -1%;
+} */
