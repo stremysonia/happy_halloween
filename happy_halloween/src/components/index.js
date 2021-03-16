@@ -3,3 +3,4 @@
 // export { default as Clouds } from './Clouds/Clouds'
 export { default as Witch } from './Witch/Witch'
 export { default as ThunderStorm } from './ThunderStorm/ThunderStorm'
+export { default as Navbar } from './Navbar/Navbar'

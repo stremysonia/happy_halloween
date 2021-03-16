@@ -225,6 +225,19 @@ h1 span:nth-child(5)
 
   }
 
+  .horizontal-letter-flip {
+      transform: scale(-1, 1);
+      -moz-transform: scale(-1, 1);
+        -webkit-transform: scale(-1, 1);
+        -o-transform: scale(-1, 1);
+        -ms-transform: scale(-1, 1);
+        letter-spacing: ;
+      /* display: inline-block; */
+      /* transform: rotate(90deg); */
+
+    }
+  
+
   /* @keyframes type {
       from {
           width: 0;
@@ -235,5 +248,10 @@ h1 span:nth-child(5)
   } */
 
   .subtitle {
-      word-spacing: 10px;
+      /* word-spacing: 10px;
+       transform: scale(-1, 1);
+      -moz-transform: scale(-1, 1);
+        -webkit-transform: scale(-1, 1);
+        -o-transform: scale(-1, 1);
+        -ms-transform: scale(-1, 1); */
   }
