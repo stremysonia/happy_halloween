@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import { Navbar } from '../src/components/index.js'
+import { Navbar, Footer } from '../src/components/index.js'
 import { Home, Types, Psychology, FemaleSerialKillers, MaleSerialKillers }from './pages/index.js'
 
 function App() {
@@ -32,6 +32,7 @@ function App() {
                 </Route>
 
             </Switch>
+            {/* <Footer/> */}
           </Router>
         </>
   );
