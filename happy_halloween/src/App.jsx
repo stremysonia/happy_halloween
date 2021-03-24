@@ -1,19 +1,24 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import { Navbar, Footer } from '../src/components/index.js'
-import { Home, Types, Psychology, FemaleSerialKillers, MaleSerialKillers }from './pages/index.js'
+import { Navbar, Footer, Logo } from '../src/components/index.js'
+import { Home, MainPage, Types, Psychology, FemaleSerialKillers, MaleSerialKillers } from './pages/index.js'
 
 function App() {
     return (
         <>
           <Router>
-            {/* <Navbar/> */}
+            <Navbar/>
+            <Logo/>
             <Switch>
               
               <Route exact path="/">
                 <Home/>
                 </Route>
+{/* 
+                <Route exact path="./MainPage">
+                <MainPage/>
+                </Route> */}
 
               <Route path="./Types">
                 <Types/>
@@ -32,7 +37,7 @@ function App() {
                 </Route>
 
             </Switch>
-            {/* <Footer/> */}
+            <Footer/>
           </Router>
         </>
   );
