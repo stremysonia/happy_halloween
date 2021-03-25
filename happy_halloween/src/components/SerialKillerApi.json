@@ -2,10 +2,10 @@
 [{
     
     "name": "Samuel Little",
-    "nickname": "",
+    "nickname": "Samuel McDowell",
     "image": "littlePhoto",
-    "born": "January 7, 1940 Reynolds, Georgia",
-    "died": "December 30, 2020 Los Angeles California",
+    "dateOfBirthAndLocation": "January 7, 1940 Reynolds, Georgia",
+    "dateOfDeathAndLocation": "December 30, 2020 Los Angeles California",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -17,8 +17,8 @@
     "name": "Richardo Leyva Munoz Ramirez",
     "nickname": "",
     "image": "ramirezPhoto",
-    "born": "February 29, 1960 El Paso, Texas",
-    "died": "June 7, 2013 Kentfield, California",
+    "dateOfBirthAndLocation": "February 29, 1960 El Paso, Texas",
+    "dateOfDeathAndLocation": "June 7, 2013 MarinHealth Medical Center, Kentfield, California",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -28,10 +28,10 @@
 {
     
     "name": "Gary Leon Ridgway",
-    "nickname": "",
+    "nickname": "Green River Killer",
     "image": "ridgwayPhoto",
-    "born": "Salt Lake City, Utah",
-    "died": "",
+    "dateOfBirthAndLocation": "Salt Lake City, Utah",
+    "dateOfDeathAndLocation": "",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -43,8 +43,8 @@
     "name": "Joseph James DeAngelo Jr",
     "nickname": "Diamond Knot Killer, East Area Rapist, Golden State Killer",
     "image": "deangeloPhoto",
-    "born": "November 8, 1945 Bath, New York",
-    "died": "",
+    "dateOfBirthAndLocation": "November 8, 1945 Bath, New York",
+    "dateOfDeathAndLocation": "",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -54,10 +54,10 @@
 {
     
     "name": "Donald Harvey",
-    "nickname": "",
+    "nickname": "Angel of Death",
     "image": "harveyPhoto",
-    "born": "April 15, 19522 Butler County, Ohio",
-    "died": "March 30, 2017 Toledo, Ohio",
+    "dateOfBirthAndLocation": "April 15, 19522 Butler County, Ohio",
+    "dateOfDeathAndLocation": "March 30, 2017 Toledo, Ohio",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -67,10 +67,10 @@
 {
     
     "name": "Theodore Robert Bundy",
-    "nickname": "",
+    "nickname": "The Lady Killer",
     "image": "bundyPhoto",
-    "born": "November 24, 1946 Burlinton, Vermont",
-    "died": "January 24, 1989 Florida State Prison, Bradford County, Florida",
+    "dateOfBirthAndLocation": "November 24, 1946 Burlinton, Vermont",
+    "dateOfDeathAndLocation": "January 24, 1989 Florida State Prison, Bradford County, Florida",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -80,10 +80,10 @@
 {
     
     "name": "Jeffery Lionel Dahmer",
-    "nickname": "",
+    "nickname": "Milwaukee Cannibal The Milwaukee Monster",
     "image": "dahmerPhoto",
-    "born": "May 21, 1960 Milwaukee, Wisconsin",
-    "died": "November 28, 1994 Columbia Correctional Institution, Portage, Wisconsin",
+    "dateOfBirthAndLocation": "May 21, 1960 Milwaukee, Wisconsin",
+    "dateOfDeathAndLocation": "November 28, 1994 Columbia Correctional Institution, Portage, Wisconsin",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -95,8 +95,8 @@
     "name": "Dennis Lynn Rader",
     "nickname": "BTK, BTK Strangler, BTK Killer, ",
     "image": "raderPhoto",
-    "born": "March 9, 1945 Pittsburg, Kansas",
-    "died": "",
+    "dateOfBirthAndLocation": "March 9, 1945 Pittsburg, Kansas",
+    "dateOfDeathAndLocation": "",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -108,8 +108,8 @@
     "name": "Herman Webster Mudgett",
     "nickname": "Dr. Henry Howard Holmes, H. H. Holmes",
     "image": "mudgettPhoto",
-    "born": "May 16, 1861 Gilmanton, New Hampshire",
-    "died": "May 7, 1896 Moyamensing Prison, Philadelphia, Pennsylvania",
+    "dateOfBirthAndLocation": "May 16, 1861 Gilmanton, New Hampshire",
+    "dateOfDeathAndLocation": "May 7, 1896 Moyamensing Prison, Philadelphia, Pennsylvania",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
@@ -121,13 +121,66 @@
     "name": "Lonnie David Franklin Jr.",
     "nickname": "Grim Sleeper",
     "image": "franklinJrPhoto",
-    "born": "August 30, 1952 Los Angeles, California",
-    "died": "March 28, 2020 San Quentin State Prison, San Quentin, California",
+    "dateOfBirthAndLocation": "August 30, 1952 Los Angeles, California",
+    "dateOfDeathAndLocation": "March 28, 2020 San Quentin State Prison, San Quentin, California",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    
+    "name": "Andrei Romanovich Chikatilo",
+    "nickname": "Butcher of Rostov, Red Ripper, Rostov Ripper",
+    "image": "chikatiloPhoto",
+    "dateOfBirthAndLocation": "October 16, 1936 Yabluchne, Ukraine",
+    "dateOfDeathAndLocation": "February 14, 1994 Novocherkassk, Russia",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    
+    "name": "Joachim Georg Kroll",
+    "nickname": "The Duisburg Man-Eater, The Ruhr Cannibal",
+    "image": "krollPhoto",
+    "dateOfBirthAndLocation": "April 17, 1933 Zabrze, Poland",
+    "dateOfDeathAndLocation": "July 1, 1991 Rheinbach, Germany",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    
+    "name": "Pedro Lopez",
+    "nickname": "Monster of the Andes",
+    "image": "lopezPhoto",
+    "dateOfBirthAndLocation": "October 8, 1948 Santa Isabel, Colombia",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    
+    "name": "John Wayne Gacy",
+    "nickname": "Killer Clown",
+    "image": "gacyPhoto",
+    "dateOfBirthAndLocation": "March 17, 1942, Chicago, Illinois",
+    "dateOfDeathAndLocation": "May 10, 1994 Stateville Correctional Center, Crest Hill, Illinois",
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
     
 }
+
 
 
 ]
