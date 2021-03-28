@@ -1,9 +1,12 @@
 import React from 'react';
 import './FemaleSerialKillers.css'
+import Cards from '../../components/Cards/Cards'
 
-function FemaleSerialKillers() {
+const FemaleSerialKillers = () => {
         return (
-            <div className="female-container">Female Serial Killers</div>
+            <>
+                <Cards></Cards>
+            </>
     );
 }
 export default FemaleSerialKillers;

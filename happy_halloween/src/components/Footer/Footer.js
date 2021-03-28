@@ -12,7 +12,7 @@ const Footer = () => {
                         <a target="_blank"
                             rel="noopener noreferrer"
                             href="#">
-                                <box-icon name='twitter' type='logo' color='white' size='sm' animation='burst-hover'>
+                                <box-icon name='twitter' type='logo' color='white' size='sm' animation='burst-hover' alt="Twitter Logo">
                                 </box-icon>
                         </a>
                     </li>
@@ -20,7 +20,7 @@ const Footer = () => {
                             <a target="_blank"
                                 rel="noopener noreferrer"
                                 href="#">
-                                    <box-icon name='instagram' type='logo' color='white' size='sm' animation='burst-hover'>
+                                    <box-icon name='instagram' type='logo' color='white' size='sm' animation='burst-hover' alt="Instagram Logo">
                                     </box-icon>
                             </a>
                         </li>
@@ -28,7 +28,7 @@ const Footer = () => {
                                 <a target="_blank"
                                     rel="noopener noreferrer"
                                     href="#">
-                                        <box-icon name='facebook-circle' type='logo' color='white' size='sm' animation='burst-hover'>
+                                        <box-icon name='facebook-circle' type='logo' color='white' size='sm' animation='burst-hover' alt="Facebook Logo">
                                         </box-icon>
                                 </a>
                             </li>

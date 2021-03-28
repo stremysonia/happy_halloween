@@ -1,6 +1,6 @@
 {"serialKiller"
 [{
-    
+    "gender": "male",
     "name": "Samuel Little",
     "nickname": "Samuel McDowell",
     "image": "littlePhoto",
@@ -9,11 +9,10 @@
     "confirmedKills": "",
     "confessedKills": "",
     "description": ""
-    
 },
 
 {
-    
+    "gender": "male",
     "name": "Richardo Leyva Munoz Ramirez",
     "nickname": "",
     "image": "ramirezPhoto",
@@ -26,7 +25,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Gary Leon Ridgway",
     "nickname": "Green River Killer",
     "image": "ridgwayPhoto",
@@ -39,7 +38,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Joseph James DeAngelo Jr",
     "nickname": "Diamond Knot Killer, East Area Rapist, Golden State Killer",
     "image": "deangeloPhoto",
@@ -52,7 +51,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Donald Harvey",
     "nickname": "Angel of Death",
     "image": "harveyPhoto",
@@ -65,7 +64,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Theodore Robert Bundy",
     "nickname": "The Lady Killer",
     "image": "bundyPhoto",
@@ -78,7 +77,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Jeffery Lionel Dahmer",
     "nickname": "Milwaukee Cannibal The Milwaukee Monster",
     "image": "dahmerPhoto",
@@ -91,7 +90,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Dennis Lynn Rader",
     "nickname": "BTK, BTK Strangler, BTK Killer, ",
     "image": "raderPhoto",
@@ -104,7 +103,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Herman Webster Mudgett",
     "nickname": "Dr. Henry Howard Holmes, H. H. Holmes",
     "image": "mudgettPhoto",
@@ -117,7 +116,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Lonnie David Franklin Jr.",
     "nickname": "Grim Sleeper",
     "image": "franklinJrPhoto",
@@ -130,7 +129,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Andrei Romanovich Chikatilo",
     "nickname": "Butcher of Rostov, Red Ripper, Rostov Ripper",
     "image": "chikatiloPhoto",
@@ -143,7 +142,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Joachim Georg Kroll",
     "nickname": "The Duisburg Man-Eater, The Ruhr Cannibal",
     "image": "krollPhoto",
@@ -156,7 +155,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "Pedro Lopez",
     "nickname": "Monster of the Andes",
     "image": "lopezPhoto",
@@ -169,7 +168,7 @@
 },
 
 {
-    
+    "gender": "male",
     "name": "John Wayne Gacy",
     "nickname": "Killer Clown",
     "image": "gacyPhoto",
@@ -179,9 +178,322 @@
     "confessedKills": "",
     "description": ""
     
+},
+
+{
+    "gender": "male",
+    "name": "Javed Iqbal Umayr",
+    "nickname": "",
+    "image": "umayrPhoto",
+    "dateOfBirthAndLocation": "October 8, 1956 Lahore, Pakistan",
+    "dateOfDeathAndLocation": "October 8, 2001 Lahore Central Jail Lahore, Pakistan",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "male",
+    "name": "Anthony Edward Sowell",
+    "nickname": "Cleveland Strangler",
+    "image": "sowellPhoto",
+    "dateOfBirthAndLocation": "August 19, 1959 Ohio",
+    "dateOfDeathAndLocation": "February 8, 2021 Columbus, Ohio",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "male",
+    "name": "Harold Frederick Shipman",
+    "nickname": "Fred Shipman",
+    "image": "shipmanPhoto",
+    "dateOfBirthAndLocation": "January 14, 1946 Bestwood Nottingham, United Kingdom",
+    "dateOfDeathAndLocation": "January 13, 2004 Her Majesty's Prison Wakefield Wakefield, United Kingdom",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "male",
+    "name": "William George Bonin",
+    "nickname": "Freeway Killer",
+    "image": "boninPhoto",
+    "dateOfBirthAndLocation": "January 8, 1947 Willimantic, CT",
+    "dateOfDeathAndLocation": "February 23, 1996 San Quentin State Prison San Quentin, CA",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Countess Elizabeth Bathory de Ecsed",
+    "nickname": "The Blood Countess, The Bloody Lady of Cachtice",
+    "image": "bathoryPhoto",
+    "dateOfBirthAndLocation": "August 7, 1560 Nyirbator, Hungary",
+    "dateOfDeathAndLocation": "August 1614 Cachtice Castle, Cachtice, Slovakia",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Aileen Carol'Lee' Wuornos",
+    "nickname": "",
+    "image": "wuornosPhoto",
+    "dateOfBirthAndLocation": "February 29, 1956, Rochester, Michigan ",
+    "dateOfDeathAndLocation": "October 9, 2002 Florida State Prison, Bradford County, Florida",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Jane Toppan 'Honora Kelley'",
+    "nickname": "Jolly Jane",
+    "image": "toppanPhoto",
+    "dateOfBirthAndLocation": "March 31, 1854 Boston, Massachusetts",
+    "dateOfDeathAndLocation": "October 29, 1938 Department of Youth Services, Taunton, Massachusetts",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Nannie Doss",
+    "nickname": "Giggling Granny, The Lonely Hearts Killer, The Black Widow, Lady Blue Beard",
+    "image": "dossPhoto",
+    "dateOfBirthAndLocation": "November 4, 1905 Phawngpui 'Blue Mountain', India",
+    "dateOfDeathAndLocation": "June 2, 1965, Oklahoma State Penitentiary, McAlester, OK",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Juana Barraza",
+    "nickname": "La Mataviejitas",
+    "image": "barrazaPhoto",
+    "dateOfBirthAndLocation": "December 27, 1957 Hidalgo, Mexico",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Belle Gunness 'Brynhild Paulsdatter Storset'",
+    "nickname": "",
+    "image": "gunnessPhoto",
+    "dateOfBirthAndLocation": "November 11, 1859 Selbu, Norway",
+    "dateOfDeathAndLocation": "April 28, 1908 La Porte, Indiana",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Dorothea Helen Puente",
+    "nickname": "Death House Landlady, The Black Widow of Sacramento, The Grandma Serial Killer",
+    "image": "puentePhoto",
+    "dateOfBirthAndLocation": "January 9, 1929 Redlands, California",
+    "dateOfDeathAndLocation": "March 27, 2011 Central California Women's Facility, Chowchilla, California",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Judias V. 'Judy' Buenoano",
+    "nickname": "",
+    "image": "buenoanoPhoto",
+    "dateOfBirthAndLocation": "April 4, 1943 Quanah, Texas",
+    "dateOfDeathAndLocation": "March 30, 1998 Starke, Florida",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Rosemary Pauline West 'Rose West'",
+    "nickname": "",
+    "image": "westPhoto",
+    "dateOfBirthAndLocation": "November 29, 1953 Northam, United Kingdom",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Darya Nikolayevna Saltykova",
+    "nickname": "The Saltychikha",
+    "image": "saltykovaPhoto",
+    "dateOfBirthAndLocation": "March 22, 1730 Russian Empire",
+    "dateOfDeathAndLocation": "December 27, 1801 Ivanovsky Convent Moscow, Russia",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Marie - Madeleine d'Aubray, Marquise de Brinvilliers",
+    "nickname": "",
+    "image": "brinvilliersPhoto",
+    "dateOfBirthAndLocation": "Paris, France",
+    "dateOfDeathAndLocation": "Paris, France",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Dagmar Johanne Amalie Overbye",
+    "nickname": "",
+    "image": "overbyePhoto",
+    "dateOfBirthAndLocation": " April 23, 1887 Skanderborg, Denmark",
+    "dateOfDeathAndLocation": "May 6, 1929 Vestre Faengsel Copenhagen, Denmark",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Gesche Margarethe Gottfried",
+    "nickname": "Gesche Margarethe Timm",
+    "image": "gottfriedPhoto",
+    "dateOfBirthAndLocation": "March 6, 1785 Breman, Germany",
+    "dateOfDeathAndLocation": "April 21, 1831 Bremen, Germany",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Leonarda Cianculli",
+    "nickname": "Soap - Maker of Correggio",
+    "image": "cianciulliPhoto",
+    "dateOfBirthAndLocation": "April 14, 1894 Montella Italy",
+    "dateOfDeathAndLocation": "Octobeer 15, 1970 Pozzuoli, Italy",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Marie Delphine Macarthy",
+    "nickname": " Madame Blanque, Madame LaLaurie, MacCarthy",
+    "image": "macarthyPhoto",
+    "dateOfBirthAndLocation": "March 19, 1787 New Orleans, Louisiana",
+    "dateOfDeathAndLocation": "December 7, 1849 Paris, France",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "Miyuki Ishikawa",
+    "nickname": "Oni-Sanba 'Demon Midwife'",
+    "image": "ishikawaPhoto",
+    "dateOfBirthAndLocation": "1897 Miyazaki, Japan",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "",
+    "nickname": "",
+    "image": "",
+    "dateOfBirthAndLocation": "",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "",
+    "name": "",
+    "nickname": "",
+    "image": "",
+    "dateOfBirthAndLocation": "",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "",
+    "nickname": "",
+    "image": "",
+    "dateOfBirthAndLocation": "",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
+},
+
+{
+    "gender": "female",
+    "name": "",
+    "nickname": "",
+    "image": "",
+    "dateOfBirthAndLocation": "",
+    "dateOfDeathAndLocation": "",
+    "confirmedKills": "",
+    "confessedKills": "",
+    "description": ""
+    
 }
-
-
-
 ]
+
+
+
+
 }
