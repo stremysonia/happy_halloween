@@ -1,8 +1,9 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Navbar, Footer, Logo } from '../src/components/index.js'
-import { Home, MainPage, Types, Psychology, FemaleSerialKillers, MaleSerialKillers } from './pages/index.js'
+import { Home, Types, Psychology, FemaleSerialKillers, MaleSerialKillers } from './pages/index.js';
+
 
 function App() {
     return (
@@ -15,24 +16,20 @@ function App() {
               <Route exact path="/">
                 <Home/>
                 </Route>
-{/* 
-                <Route exact path="./MainPage">
-                <MainPage/>
-                </Route> */}
 
-              <Route path="./Types">
+              <Route path="/Types">
                 <Types/>
                 </Route>
 
-              <Route path="./Pschology">
+              <Route path="/Pschology">
                 <Psychology/>
                 </Route>
 
-              <Route path="./FemaleSerialKillers">
+              <Route path="/FemaleSerialKillers">
                 <FemaleSerialKillers/>
                 </Route>
 
-              <Route path="./MaleSerialKillers">
+              <Route path="/MaleSerialKillers">
                 <MaleSerialKillers/>
                 </Route>
 
