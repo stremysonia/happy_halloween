@@ -5,4 +5,8 @@ export { default as Logo } from './Logo/Logo'
 export { default as Footer } from './Footer/Footer'
 export { default as PopUp } from './PopUp/PopUp'
 export { default as Cards } from './Cards/Cards'
+export { default as Spider } from './Spider/Spider'
+export { default as Warning } from './Warning/Warning'
+export { default as EnterButton } from './EnterButton/EnterButton'
+// export ( default as GoldenTarantula ) from './GoldenTarantula/GoldenTarantula'
  

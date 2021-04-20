@@ -1,0 +1,31 @@
+.typing-effect-container{
+    position: absolute;
+    display: flex;
+    line-height: 1.7rem;
+    text-align: center;
+    top: 20%;
+    left: 34.8%;
+    transform: translateY(-50%, -50%);
+    /* left: 20rem; */
+    width: 36rem;
+    height: 5rem;
+    /* border: 2px solid yellow; */
+    color: white;
+    font-size: 1.1em;
+    font-weight: lighter;
+}
+
+.typing-effect {
+    /* color: white;
+    font-size: 1.2em; */
+    /* text-align: center; */
+    /* font-weight: bold; */
+    /* position: absolute;
+    transform: translate(-50%, -50);
+    top: 50%;
+    left: 26%; */
+    /* text-align: center; */
+    /* text-transform: uppercase; */
+    /* letter-spacing: ; */
+    /* font-weight: lighter; */
+}

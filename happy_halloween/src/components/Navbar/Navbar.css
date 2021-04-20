@@ -10,6 +10,7 @@ body {
     align-items: center;
     height: 50px;
     justify-content: space-evenly;
+    /* background-color: gray; */
 }
 
 li {
@@ -20,12 +21,14 @@ li {
     color: white;
     text-decoration: none;
     letter-spacing: 1.5px;
-    font-size: 13.5px;
+    font-size: 15.5px;
     text-transform: uppercase;
+    letter-spacing: .2rem;
+    /* font-weight: lighter; */
 }
 
 .navbar-link:hover {
-    color: red;
+    color: tomato;
 }
 
 
