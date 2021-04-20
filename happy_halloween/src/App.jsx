@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import { Navbar, Footer, Logo } from '../src/components/index.js'
-import { Home, Types, Psychology, FemaleSerialKillers, MaleSerialKillers } from './pages/index.js';
+import { Home, Motives, Psychology, FemaleSerialKillers, MaleSerialKillers } from './pages/index.js';
 
 
 function App() {
@@ -17,8 +17,12 @@ function App() {
                 <Home/>
                 </Route>
 
-              <Route path="/Types">
-                <Types/>
+              {/* <Route path="/MainPage">
+                <MainPage/>
+                </Route> */}
+
+              <Route path="/Motives">
+                <Motives/>
                 </Route>
 
               <Route path="/Pschology">

@@ -12,7 +12,7 @@ const Navbar = () => {
                         <img className="blood-splatter" src={design} alt="Logo"></img></a>
                     </li> */}
                         <a className="navbar-link" href="/psychology">Psychology</a>
-                            <a className="navbar-link" href="/types">Motives</a>
+                            <a className="navbar-link" href="/motives">Motives</a>
                                 <a className="navbar-link" href="/femaleserialkillers">Female Serial Killers</a>
                                     <a className="navbar-link" href="maleserialkillers">Male Serial Killers</a>
                                     

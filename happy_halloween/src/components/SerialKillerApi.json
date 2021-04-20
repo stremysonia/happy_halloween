@@ -2,24 +2,32 @@
 [{
     "gender": "male",
     "name": "Samuel Little",
-    "nickname": "Samuel McDowell",
+    "alsoKnownAs": "Samuel McDowell",
+    "nickname": "The Choke and Stroke Killer",
     "image": "littlePhoto",
     "dateOfBirthAndLocation": "January 7, 1940 Reynolds, Georgia",
     "dateOfDeathAndLocation": "December 30, 2020 Los Angeles California",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
+    "signature": "Beaten and strangled and bodies dumped in an alley, dumpster or garage",
+    "provenVictims": "60",
+    "possibleOrConfessedVictims": "93",
+    "description": "Samuel Little has been dubbed 'the most prolific serial killer in U.S. history'. 
+    Little also drew detailed pictures of his victims, which the FBI has used to help solve the murders. 
+    The FBI created a webpage listing the details Little shared with detectives, his drawings, where he 
+    believes each woman was from and Little's videotaped confessions. Detectives hope that with the 
+    public's help and the information from Little, they can resolve the remaining 40 unresolved cases."
 },
 
 {
     "gender": "male",
     "name": "Richardo Leyva Munoz Ramirez",
-    "nickname": "",
+    "alsoKnownAs": "",
+    "nickname": "Night Stalker, Valley Intruder",
     "image": "ramirezPhoto",
     "dateOfBirthAndLocation": "February 29, 1960 El Paso, Texas",
     "dateOfDeathAndLocation": "June 7, 2013 MarinHealth Medical Center, Kentfield, California",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "13",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -27,181 +35,288 @@
 {
     "gender": "male",
     "name": "Gary Leon Ridgway",
+    "alsoKnownAs": "",
     "nickname": "Green River Killer",
     "image": "ridgwayPhoto",
-    "dateOfBirthAndLocation": "Salt Lake City, Utah",
+    "dateOfBirthAndLocation": "February 18, 1949 Salt Lake City, Utah",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
+    "signature": "Stranglation",
+    "provenVictims": "49",
+    "possibleOrConfessedVictims": "71 - 90 +",
+    "description": "Gary Ridgway's slayings began in 1982, when young runaways and prostitutes began
+    disappearing from state Route 99 in South King County, Washington. He brought many of them to 
+    his home and strangled them, then left them in woodsy, remote sites. The first few bodies turned 
+    up along the now-notorious Green River. Dubbed the Green River Killer, Ridgway eluded the law 
+    until 2001, when King County sheriff Dave Reichert, the first officer assigned to the case in 
+    1982, called a meeting to re-examine evidence using newly developed DNA-testing technology. The 
+    analysis produced a match between evidence from the victims and Ridgway, and he was charged with 
+    four counts of aggravated murder in December 2001. Ridgway eventually pleaded guilty to 49 counts
+     of aggravated first-degree murder."
     
 },
 
 {
     "gender": "male",
     "name": "Joseph James DeAngelo Jr",
-    "nickname": "Diamond Knot Killer, East Area Rapist, Golden State Killer",
+    "alsoKnownAs": "",
+    "nickname": "Diamond Knot Killer, East Area Rapist, Golden State Killer, Visalia Ransacker",
     "image": "deangeloPhoto",
     "dateOfBirthAndLocation": "November 8, 1945 Bath, New York",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "13 murders, 50 rapes, 120 burglaries",
+    "possibleOrConfessedVictims": "",
+    "description": "Joseph James DeAngelo Jr. serial killer, serial rapist, burglar, and former 
+    police officer who committed at least 13 murders, 50 rapes, and 120 burglaries across California 
+    between 1973 and 1986. DeAngelo was responsible for at least three crime sprees throughout California, 
+    DeAngelo is believed to have taunted and threatened both victims and police in obscene phone calls 
+    and possibly written communications. Due to California's statute of limitations on pre-2017 rape 
+    cases, DeAngelo could not be charged with 1970s rapes; but he was charged in August 2018 with 13 
+    related kidnapping and abduction attempts. On June 29, 2020, DeAngelo pleaded guilty to multiple 
+    counts of murder and kidnapping. As part of a plea bargain that spared him the death penalty, 
+    DeAngelo also admitted to numerous crimes with which he had not been formally charged, including 
+    rapes. On August 21, 2020, DeAngelo was sentenced to life imprisonment without the possibility of 
+    parole."
 },
 
 {
     "gender": "male",
     "name": "Donald Harvey",
+    "alsoKnownAs": "",
     "nickname": "Angel of Death",
     "image": "harveyPhoto",
     "dateOfBirthAndLocation": "April 15, 19522 Butler County, Ohio",
     "dateOfDeathAndLocation": "March 30, 2017 Toledo, Ohio",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "37",
+    "possibleOrConfessedVictims": "37 - 87",
+    "description": "Donald Harvey has claimed to have murdered 87 people, though official estimates 
+    are between 37 and 57 victims. Harvey was able to accomplish this during his time as an orderly. 
+    Harvey said he started out killing to 'ease the pain' of patients by smothering them with their 
+    pillows. He mostly killed cardiac patients. Harvey used many methods to kill his victims, such 
+    as: arsenic, cyanide, insulin, suffocation, miscellaneous poisons, morphine, turning off 
+    ventilators, administration of fluid tainted with hepatitis B and/or HIV (which resulted in a 
+    hepatitis infection, but no HIV infection, and illness rather than death), and insertion of a 
+    coat hanger into a catheter, causing an abdominal puncture and subsequent peritonitis. Cyanide 
+    and arsenic were his most-used methods, with Harvey administering them via food or injections. 
+    The majority of Harvey's crimes took place at the Marymount Hospital (now St. Joseph's, London) 
+    in London, Kentucky, the Cincinnati V.A. Medical Hospital, and Cincinnati's Drake Memorial Hospital. 
+    At various times, he worked as an orderly or an autopsy assistant. Harvey did not limit his victims 
+    to helpless hospital patients. When he suspected his lover and roommate of infidelity, he poisoned 
+    his lover's food with arsenic. He poisoned two of his neighbors, sickening one, by putting hepatitis 
+    serum in her drink, and killing the other, by putting arsenic in her pie. He also killed lover's 
+    father with arsenic. Harvey kept his crimes from being discovered for 17 years"
 },
 
 {
     "gender": "male",
     "name": "Theodore Robert Bundy",
+    "alsoKnownAs": "",
     "nickname": "The Lady Killer",
     "image": "bundyPhoto",
     "dateOfBirthAndLocation": "November 24, 1946 Burlinton, Vermont",
     "dateOfDeathAndLocation": "January 24, 1989 Florida State Prison, Bradford County, Florida",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "30",
+    "description": "Ted Bundy was regarded as handsome and charismatic, traits that he exploited to 
+    win the trust of victims and society. He would typically approach his victims in public places, 
+    feigning injury or disability, or impersonating an authority figure, before knocking them 
+    unconscious and taking them to secluded locations to rape and strangle them. He sometimes 
+    revisited his victims, grooming and performing sexual acts with the decomposing corpses until 
+    putrefaction and destruction by wild animals made any further interactions impossible. He decapitated
+    at least 12 victims and kept some of the severed heads as mementos in his apartment. On a few 
+    occasions, he broke into dwellings at night and bludgeoned his victims as they slept. In 1975, 
+    Bundy was arrested and jailed in Utah for aggravated kidnapping and attempted criminal assault. 
+    He then became a suspect in a progressively longer list of unsolved homicides in several states. 
+    Facing murder charges in Colorado, he engineered two dramatic escapes and committed further assaults 
+    in Florida, including three murders, before his ultimate recapture in 1978. For the Florida homicides, 
+    he received three death sentences in two trials. Bundy was executed in the electric chair at Florida 
+    State Prison in Raiford, Florida, on January 24, 1989."
 },
 
 {
     "gender": "male",
-    "name": "Jeffery Lionel Dahmer",
-    "nickname": "Milwaukee Cannibal The Milwaukee Monster",
+    "name": "Jeffrey Lionel Dahmer",
+    "alsoKnownAs": "",
+    "nickname": "Milwaukee Cannibal, The Milwaukee Monster",
     "image": "dahmerPhoto",
     "dateOfBirthAndLocation": "May 21, 1960 Milwaukee, Wisconsin",
     "dateOfDeathAndLocation": "November 28, 1994 Columbia Correctional Institution, Portage, Wisconsin",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "17",
+    "possibleOrConfessedVictims": "",
+    "description": "Jeffrey Dahmer serial killer and sex offender who committed the murder and dismemberment 
+    of 17 men and boys between 1978 and 1991. Many of his later murders involved necrophilia, cannibalism, and 
+    the permanent preservation of body parts—typically all or part of the skeleton. Although he was diagnosed 
+    with borderline personality disorder,[3] schizotypal personality disorder, and a psychotic disorder, 
+    Dahmer was found to be legally sane at his trial. He was convicted of 15 of the 16 murders he had 
+    committed in Wisconsin, and was sentenced to 15 terms of life imprisonment on February 15, 1992. 
+    Dahmer was later sentenced to a 16th term of life imprisonment for an additional homicide committed 
+    in Ohio in 1978. On November 28, 1994, Dahmer was beaten to death by Christopher Scarver, a fellow 
+    inmate at the Columbia Correctional Institution in Portage, Wisconsin."
 },
 
 {
     "gender": "male",
     "name": "Dennis Lynn Rader",
+    "alsoKnownAs": "",
     "nickname": "BTK, BTK Strangler, BTK Killer, ",
     "image": "raderPhoto",
     "dateOfBirthAndLocation": "March 9, 1945 Pittsburg, Kansas",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "10",
+    "possibleOrConfessedVictims": "",
+    "description": "Dennis Rader known as BTK (an abbreviation he gave himself, for 'bind, torture, kill')
+    or the BTK Strangler or the BTK Killer. Between 1974 and 1991, Rader killed ten people in Wichita and 
+    Park City, Kansas, and sent taunting letters to police and newspapers describing the details of his 
+    crimes. After a decade-long hiatus, Rader resumed sending letters in 2004, leading to his 2005 arrest 
+    and subsequent guilty plea. He is serving ten consecutive life sentences at El Dorado Correctional 
+    Facility in Prospect Township, Butler County, Kansas. Massachusetts psychologist Robert Mendoza 
+    diagnosed Rader with narcissistic, antisocial and obsessive–compulsive personality disorders: 
+    He observed that Rader has a grandiose sense of self, a belief that he is 'special' and therefore 
+    entitled to special treatment; a pathological need for attention and admiration; a preoccupation with 
+    maintaining rigid order and structure; and a complete lack of empathy for his victims."
 },
 
 {
     "gender": "male",
     "name": "Herman Webster Mudgett",
+    "alsoKnownAs": "",
     "nickname": "Dr. Henry Howard Holmes, H. H. Holmes",
     "image": "mudgettPhoto",
     "dateOfBirthAndLocation": "May 16, 1861 Gilmanton, New Hampshire",
     "dateOfDeathAndLocation": "May 7, 1896 Moyamensing Prison, Philadelphia, Pennsylvania",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "19",
+    "possibleOrConfessedVictims": "confessed 27, suspect 200",
     "description": ""
-    
 },
 
 {
     "gender": "male",
     "name": "Lonnie David Franklin Jr.",
+    "alsoKnownAs": "",
     "nickname": "Grim Sleeper",
     "image": "franklinJrPhoto",
     "dateOfBirthAndLocation": "August 30, 1952 Los Angeles, California",
     "dateOfDeathAndLocation": "March 28, 2020 San Quentin State Prison, San Quentin, California",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "10",
+    "possibleOrConfessedVictims": "25",
     "description": ""
-    
 },
 
 {
     "gender": "male",
     "name": "Andrei Romanovich Chikatilo",
-    "nickname": "Butcher of Rostov, Red Ripper, Rostov Ripper",
+    "alsoKnownAs": "",
+    "nickname": "Butcher of Rostov, The Red Ripper, The Rostov Ripper",
     "image": "chikatiloPhoto",
     "dateOfBirthAndLocation": "October 16, 1936 Yabluchne, Ukraine",
     "dateOfDeathAndLocation": "February 14, 1994 Novocherkassk, Russia",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "53",
+    "possibleOrConfessedVictims": "56 +",
+    "description": "Andrei Romanovich Chikatilo who sexually assaulted, murdered, and mutilated at 
+    least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, 
+    and the Uzbek SSR. Chikatilo confessed to fifty-six murders, fifty-three for which he was tried 
+    in April 1992. He was convicted and sentenced to death for fifty-two murders in October 1992, 
+    although the Supreme Court of Russia ruled in 1993 that insufficient evidence existed to prove 
+    his guilt in nine of those killings. Chikatilo was subsequently executed in February 1994."
 },
 
 {
     "gender": "male",
     "name": "Joachim Georg Kroll",
+    "alsoKnownAs": "",
     "nickname": "The Duisburg Man-Eater, The Ruhr Cannibal",
     "image": "krollPhoto",
     "dateOfBirthAndLocation": "April 17, 1933 Zabrze, Poland",
     "dateOfDeathAndLocation": "July 1, 1991 Rheinbach, Germany",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "8",
+    "possibleOrConfessedVictims": "14",
+    "description": "Joachim Georg Kroll a cannibalistic German serial killer claimed that he ate parts 
+    of his victims to save money, because meat was expensive. He evaded capture for two decades, and over 
+    the years six other men were arrested for crimes he committed. But Joachim Kroll’s gruesome killing 
+    spree finally came to an end after he clogged a shared toilet with a victim’s entrails, leading to 
+    his capture. Joachim was convicted of eight murders and one attempted murder, but confessed to a 
+    total of 14. He was sentenced to life imprisonment in 1982."
 },
 
 {
     "gender": "male",
     "name": "Pedro Lopez",
+    "alsoKnownAs": "",
     "nickname": "Monster of the Andes",
     "image": "lopezPhoto",
     "dateOfBirthAndLocation": "October 8, 1948 Santa Isabel, Colombia",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "110",
+    "possibleOrConfessedVictims": "300",
     "description": ""
-    
 },
 
 {
     "gender": "male",
     "name": "John Wayne Gacy",
+    "alsoKnownAs": "",
     "nickname": "Killer Clown",
     "image": "gacyPhoto",
     "dateOfBirthAndLocation": "March 17, 1942, Chicago, Illinois",
     "dateOfDeathAndLocation": "May 10, 1994 Stateville Correctional Center, Crest Hill, Illinois",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
+    "signature": "",
+    "provenVictims": "33",
+    "possibleOrConfessedVictims": "34 +",
+    "description": "John Wayne Gacy known as the Killer Clown who assaulted and murdered at least 
+    33 young men and boys. Gacy regularly performed at children's hospitals and charitable events 
+    as 'Pogo the Clown' or 'Patches the Clown', personas he had devised. He was also active in his 
+    local community as a Democratic Party precinct captain and building contractor. According to 
+    Gacy, all of his murders were committed inside his ranch house near Norridge, a village in 
+    Norwood Park Township, metropolitan Chicago, Illinois. Typically, he would lure a victim to his 
+    home, dupe him into donning handcuffs on the pretext of demonstrating a magic trick, then rape 
+    and torture his captive before killing him by either asphyxiation or strangulation with a garrote. 
+    Twenty-six victims were buried in the crawl space of his home, and three others were buried 
+    elsewhere on his property. Four were discarded in the Des Plaines River. His conviction for 
+    33 murders was the most by one individual in United States history at the time. Gacy was sentenced
+    to death on March 13, 1980. On death row at Menard Correctional Center, he spent much of his time 
+    painting. He was executed by lethal injection at Stateville Correctional Center on May 10, 1994."
     
 },
 
 {
     "gender": "male",
     "name": "Javed Iqbal Umayr",
-    "nickname": "",
+    "alsoKnownAs": "",
+    "nickname": "Kukri",
     "image": "umayrPhoto",
     "dateOfBirthAndLocation": "October 8, 1956 Lahore, Pakistan",
     "dateOfDeathAndLocation": "October 8, 2001 Lahore Central Jail Lahore, Pakistan",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "100",
+    "possibleOrConfessedVictims": "",
+    "description": "Javed Iqbal Umayr was a Pakistani serial killer and pederast who confessed to 
+    the sexual abuse and murder of 100 boys, ranging in age from 6 to 16. Iqbal strangled the victims, 
+    dismembered the corpses and dissolved them in acid as a way to conceal the evidence. He was found 
+    guilty and sentenced to death in the same manner that he killed the boys, being strangled first, 
+    then cut into a hundred pieces, in front of the parents of the victims, one piece for each victim, 
+    then be dissolved into acid, but he committed suicide before the sentence could be carried out."
 },
 
 {
     "gender": "male",
     "name": "Anthony Edward Sowell",
+    "alsoKnownAs": "",
     "nickname": "Cleveland Strangler",
     "image": "sowellPhoto",
     "dateOfBirthAndLocation": "August 19, 1959 Ohio",
     "dateOfDeathAndLocation": "February 8, 2021 Columbus, Ohio",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "11",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -209,90 +324,126 @@
 {
     "gender": "male",
     "name": "Harold Frederick Shipman",
-    "nickname": "Fred Shipman",
+    "alsoKnownAs": "Fred Shipman",
+    "nickname": "",
     "image": "shipmanPhoto",
     "dateOfBirthAndLocation": "January 14, 1946 Bestwood Nottingham, United Kingdom",
     "dateOfDeathAndLocation": "January 13, 2004 Her Majesty's Prison Wakefield Wakefield, United Kingdom",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "215",
+    "possibleOrConfessedVictims": "216 +",
+    "description": "Harold Frederick Shipman an English general practitioner who is believed to be one 
+    of the most prolific serial killers in modern history. On 31 January 2000, he was found guilty of 
+    the murder of 15 patients under his care; his total number of victims was approximately 250. Shipman
+    was sentenced to life imprisonment with the recommendation that he never be released. He died by 
+    suicide by hanging on 13 January 2004, a day before his 58th birthday, in his cell at HM Prison 
+    Wakefield, West Yorkshire. The inquiry A two year investigation of Shipman's crimes have identified 
+    215 victims and estimated his total victim count at 250, about 80 percent of whom were elderly women. 
+    Shipman's youngest confirmed victim was a 41-year-old man, although suspicion arose that he had 
+    killed patients as young as four."
 },
 
 {
     "gender": "male",
     "name": "William George Bonin",
+    "alsoKnownAs": "",
     "nickname": "Freeway Killer",
     "image": "boninPhoto",
     "dateOfBirthAndLocation": "January 8, 1947 Willimantic, CT",
     "dateOfDeathAndLocation": "February 23, 1996 San Quentin State Prison San Quentin, CA",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "14",
+    "possibleOrConfessedVictims": "36 +",
+    "description": "William George Bonin also known as the Freeway Killer, was an American serial 
+    killer and twice-paroled sex offender who committed the rape, torture, and murder of a minimum
+    of 21 boys and young men in a series of killings in 1979 and 1980 in southern California. Bonin
+    is also suspected of committing a further 15 murders. Described by the prosecutor at his first
+    trial as 'the most arch-evil person who ever existed', Bonin was convicted of 14 of the murders 
+    linked to the 'Freeway Killer' in two separate trials in 1982 and 1983. He spent 14 years on 
+    death row before he was executed by lethal injection at San Quentin State Prison in 1996.
+    Bonin became known as the 'Freeway Killer' due to the fact that the majority of his victims' 
+    bodies were discovered alongside numerous freeways in southern California."
 },
 
 {
     "gender": "female",
     "name": "Countess Elizabeth Bathory de Ecsed",
+    "alsoKnownAs": "",
     "nickname": "The Blood Countess, The Bloody Lady of Cachtice",
     "image": "bathoryPhoto",
     "dateOfBirthAndLocation": "August 7, 1560 Nyirbator, Hungary",
     "dateOfDeathAndLocation": "August 1614 Cachtice Castle, Cachtice, Slovakia",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "600",
+    "description": "Countess Elizabeth Bathory was a wealthy and powerful Hungarian noblewoman whose 
+    relations included an uncle who was king of Poland and a nephew who was prince of Transylvania. 
+    In 1610 she was accused of gruesome acts of serial murder and confined to her home of Castle 
+    Čachtice, where she remained until her death. Bathory is reputed to have killed at least six 
+    hundred victims, earning her a Guinness World Record for most prolific female murderer. Her 
+    actions resulted in a nickname of the 'Blood Countess'. However, it's possible Bathory was 
+    not guilty of all the crimes that have been laid at her feet."
 },
 
 {
     "gender": "female",
     "name": "Aileen Carol'Lee' Wuornos",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "wuornosPhoto",
-    "dateOfBirthAndLocation": "February 29, 1956, Rochester, Michigan ",
+    "dateOfBirthAndLocation": "February 29, 1956, Rochester, Michigan",
     "dateOfDeathAndLocation": "October 9, 2002 Florida State Prison, Bradford County, Florida",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "7",
+    "possibleOrConfessedVictims": "",
+    "description": "Aileen Carol'Lee' Wuornos was an American serial killer and sex worker who murdered 
+    seven men in Florida in 1989 and 1990 by shooting them at point-blank range. Wuornos claimed that 
+    her victims had either raped or attempted to rape her while they were soliciting sex from her, 
+    and that all of the homicides were committed in self-defense. She was sentenced to death for six 
+    of the murders and was executed by lethal injection on October 9, 2002."
 },
 
 {
     "gender": "female",
-    "name": "Jane Toppan 'Honora Kelley'",
+    "name": "Jane Toppan",
+    "alsoKnownAs": "Honora Kelley",
     "nickname": "Jolly Jane",
     "image": "toppanPhoto",
     "dateOfBirthAndLocation": "March 31, 1854 Boston, Massachusetts",
     "dateOfDeathAndLocation": "October 29, 1938 Department of Youth Services, Taunton, Massachusetts",
-    "confirmedKills": "",
-    "confessedKills": "",
-    "description": ""
-    
+    "signature": "",
+    "provenVictims": "31",
+    "possibleOrConfessedVictims": "",
+    "description": "Jane Toppan nicknamed 'Jolly Jane' was arrested in 1901, she confessed to 31 
+    murders, but only 12 were confirmed. Toppan is quoted as saying that her ambition was 'to have 
+    killed more people—helpless people—than any other man or woman who ever lived.'"
 },
 
 {
     "gender": "female",
     "name": "Nannie Doss",
-    "nickname": "Giggling Granny, The Lonely Hearts Killer, The Black Widow, Lady Blue Beard",
+    "alsoKnownAs": "",
+    "nickname": "Giggling Nanny, Giggling Granny, The Lonely Hearts Killer, The Black Widow, Lady Blue Beard",
     "image": "dossPhoto",
     "dateOfBirthAndLocation": "November 4, 1905 Phawngpui 'Blue Mountain', India",
     "dateOfDeathAndLocation": "June 2, 1965, Oklahoma State Penitentiary, McAlester, OK",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "11",
+    "possibleOrConfessedVictims": "",
     "description": ""
-    
 },
 
 {
     "gender": "female",
     "name": "Juana Barraza",
+    "alsoKnownAs": "",
     "nickname": "La Mataviejitas",
     "image": "barrazaPhoto",
     "dateOfBirthAndLocation": "December 27, 1957 Hidalgo, Mexico",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "17",
+    "possibleOrConfessedVictims": "29 - 49",
     "description": ""
     
 },
@@ -300,12 +451,14 @@
 {
     "gender": "female",
     "name": "Belle Gunness 'Brynhild Paulsdatter Storset'",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "gunnessPhoto",
     "dateOfBirthAndLocation": "November 11, 1859 Selbu, Norway",
     "dateOfDeathAndLocation": "April 28, 1908 La Porte, Indiana",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -313,12 +466,14 @@
 {
     "gender": "female",
     "name": "Dorothea Helen Puente",
+    "alsoKnownAs": "",
     "nickname": "Death House Landlady, The Black Widow of Sacramento, The Grandma Serial Killer",
     "image": "puentePhoto",
     "dateOfBirthAndLocation": "January 9, 1929 Redlands, California",
     "dateOfDeathAndLocation": "March 27, 2011 Central California Women's Facility, Chowchilla, California",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -326,12 +481,14 @@
 {
     "gender": "female",
     "name": "Judias V. 'Judy' Buenoano",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "buenoanoPhoto",
     "dateOfBirthAndLocation": "April 4, 1943 Quanah, Texas",
     "dateOfDeathAndLocation": "March 30, 1998 Starke, Florida",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "3",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -339,12 +496,14 @@
 {
     "gender": "female",
     "name": "Rosemary Pauline West 'Rose West'",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "westPhoto",
     "dateOfBirthAndLocation": "November 29, 1953 Northam, United Kingdom",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -352,12 +511,14 @@
 {
     "gender": "female",
     "name": "Darya Nikolayevna Saltykova",
+    "alsoKnownAs": "",
     "nickname": "The Saltychikha",
     "image": "saltykovaPhoto",
     "dateOfBirthAndLocation": "March 22, 1730 Russian Empire",
     "dateOfDeathAndLocation": "December 27, 1801 Ivanovsky Convent Moscow, Russia",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -365,12 +526,14 @@
 {
     "gender": "female",
     "name": "Marie - Madeleine d'Aubray, Marquise de Brinvilliers",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "brinvilliersPhoto",
     "dateOfBirthAndLocation": "Paris, France",
     "dateOfDeathAndLocation": "Paris, France",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "3",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -378,12 +541,14 @@
 {
     "gender": "female",
     "name": "Dagmar Johanne Amalie Overbye",
+    "alsoKnownAs": "",
     "nickname": "",
     "image": "overbyePhoto",
     "dateOfBirthAndLocation": " April 23, 1887 Skanderborg, Denmark",
     "dateOfDeathAndLocation": "May 6, 1929 Vestre Faengsel Copenhagen, Denmark",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "9",
+    "possibleOrConfessedVictims": "25",
     "description": ""
     
 },
@@ -391,12 +556,14 @@
 {
     "gender": "female",
     "name": "Gesche Margarethe Gottfried",
+    "alsoKnownAs": "",
     "nickname": "Gesche Margarethe Timm",
     "image": "gottfriedPhoto",
     "dateOfBirthAndLocation": "March 6, 1785 Breman, Germany",
     "dateOfDeathAndLocation": "April 21, 1831 Bremen, Germany",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "15",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -404,25 +571,29 @@
 {
     "gender": "female",
     "name": "Leonarda Cianculli",
+    "alsoKnownAs": "",
     "nickname": "Soap - Maker of Correggio",
     "image": "cianciulliPhoto",
     "dateOfBirthAndLocation": "April 14, 1894 Montella Italy",
     "dateOfDeathAndLocation": "Octobeer 15, 1970 Pozzuoli, Italy",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "3",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
 
 {
     "gender": "female",
-    "name": "Marie Delphine Macarthy",
-    "nickname": " Madame Blanque, Madame LaLaurie, MacCarthy",
-    "image": "macarthyPhoto",
+    "name": "Marie Delphine Macarty",
+    "alsoKnownAs": "Marie Delphine MacCarthy, Madame Blanque, Madame LaLaurie",
+    "nickname": "",
+    "image": "macartyPhoto",
     "dateOfBirthAndLocation": "March 19, 1787 New Orleans, Louisiana",
     "dateOfDeathAndLocation": "December 7, 1849 Paris, France",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "12",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -430,12 +601,14 @@
 {
     "gender": "female",
     "name": "Miyuki Ishikawa",
+    "alsoKnownAs": "",
     "nickname": "Oni-Sanba 'Demon Midwife'",
     "image": "ishikawaPhoto",
     "dateOfBirthAndLocation": "1897 Miyazaki, Japan",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "103",
+    "possibleOrConfessedVictims": "169",
     "description": ""
     
 },
@@ -447,8 +620,9 @@
     "image": "",
     "dateOfBirthAndLocation": "",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -460,8 +634,9 @@
     "image": "",
     "dateOfBirthAndLocation": "",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -473,8 +648,9 @@
     "image": "",
     "dateOfBirthAndLocation": "",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 },
@@ -486,8 +662,9 @@
     "image": "",
     "dateOfBirthAndLocation": "",
     "dateOfDeathAndLocation": "",
-    "confirmedKills": "",
-    "confessedKills": "",
+    "signature": "",
+    "provenVictims": "",
+    "possibleOrConfessedVictims": "",
     "description": ""
     
 }

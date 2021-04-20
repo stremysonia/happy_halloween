@@ -1,0 +1,87 @@
+body {
+    color: white;
+    font-weight: lighter;
+   
+}
+
+/* .line {
+    top: 40%;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 3px;
+    background-color: #eeeeee;
+    left: 50%;
+    margin-left: -1.5px;
+} */
+
+.motives-container {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    transform: translate(-50, -50%);
+    padding: 12px;
+    width: 350px;
+    height: 200px;
+    background-color: tomato;
+    border-radius: .2rem;
+    box-shadow: .5rem .5rem .5rem white;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.motives-title{
+    font-weight: lighter;
+}
+
+.mission-title,
+.power-title,
+.hedonistic-title, 
+.lust-title,
+.thrill-title,
+.comfort-title {
+    letter-spacing: .2rem;
+    font-weight: lighter;
+    font-size: 1rem;
+}
+
+.flex-box {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.flex-box > .flex-box-item {
+    margin: 40px;
+    padding: 20px;
+    width: 320px;
+    height: 230px;
+    text-align: center;
+    font-size: 1rem;
+    background-color: gray;
+    box-shadow: .5rem .5rem .5rem white;
+    border-radius: 8px;
+}
+
+.flex-box2 {
+    display: flex;
+    text-align: center;
+    position: absolute;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.flex-box2 > .flex-box-item2 {
+    margin: 40px;
+    padding: 20px;
+    width: 320px;
+    height: 360px;
+    text-align: center;
+    font-size: 1rem;
+    background-color: gray;
+    box-shadow: .5rem .5rem .5rem white;
+    border-radius: 8px;
+}

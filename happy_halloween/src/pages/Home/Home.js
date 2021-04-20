@@ -1,18 +1,17 @@
 import React from 'react';
 import './Home.css';
+// import EnterButton from '../../components/EnterButton/EnterButton'
+
 
 const Home = () => {
         return (
                 <>
-                        <a href="/">
-                                <span className="title">
-                                        <span className="flicker">E</span>
-                                        <span>N</span>
-                                        <span className="flicker">T</span>
-                                        <span>E</span>
-                                        <span className="flicker">R</span>
-                                </span> 
-                        </a> 
+                        {/* <Navbar></Navbar> */}
+                        {/* <EnterButton/> */}
+                     
+                        {/* <Spider/> */}
+                        {/* <GoldenTarantula className="golden" color="red" width="500px"></GoldenTarantula> */}
+                       
                 </>
         );
 }

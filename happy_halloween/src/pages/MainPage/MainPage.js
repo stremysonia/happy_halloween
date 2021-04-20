@@ -9,14 +9,13 @@ const MainPage = () => {
                 <>
                     {/* <Logo></Logo>
                     <Navbar></Navbar>
-                    <Footer></Footer>
-                    <Logo></Logo>
-        */}
-            <span className="subtitle-container">
+                    <Footer></Footer> */}
+        
+            {/* <span className="subtitle-container">
                 <p className="subtitle">
                     <span className="glitch">AT YOUR OWN RISK</span>
                 </p>
-            </span>
+            </span> */}
         
                 </>
         );
