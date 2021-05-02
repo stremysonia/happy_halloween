@@ -1,3 +1,5 @@
+{ "editor.wrappingColumn": 0 }
+
 {"serialKiller"
 [{
     "gender": "male",
@@ -7,29 +9,22 @@
     "image": "littlePhoto",
     "dateOfBirthAndLocation": "January 7, 1940 Reynolds, Georgia",
     "dateOfDeathAndLocation": "December 30, 2020 Los Angeles California",
-    "signature": "Beaten and strangled and bodies dumped in an alley, dumpster or garage",
     "provenVictims": "60",
     "possibleOrConfessedVictims": "93",
-    "description": "Samuel Little has been dubbed 'the most prolific serial killer in U.S. history'. 
-    Little also drew detailed pictures of his victims, which the FBI has used to help solve the murders. 
-    The FBI created a webpage listing the details Little shared with detectives, his drawings, where he 
-    believes each woman was from and Little's videotaped confessions. Detectives hope that with the 
-    public's help and the information from Little, they can resolve the remaining 40 unresolved cases."
+    "description": "Samuel Little has been dubbed 'the most prolific serial killer in U.S. history'. Little also drew detailed pictures of his victims, which the FBI has used to help solve the murders. The FBI created a webpage listing the details Little shared with detectives, his drawings, where he believes each woman was from and Little's videotaped confessions. Detectives hope that with the public's help and the information from Little, they can resolve the remaining 40 unresolved cases."
 },
 
 {
     "gender": "male",
-    "name": "Richardo Leyva Munoz Ramirez",
-    "alsoKnownAs": "",
+    "name": "Richard Ramirez",
+    "alsoKnownAs": "Richardo Leyva Munoz Ramirez",
     "nickname": "Night Stalker, Valley Intruder",
     "image": "ramirezPhoto",
     "dateOfBirthAndLocation": "February 29, 1960 El Paso, Texas",
     "dateOfDeathAndLocation": "June 7, 2013 MarinHealth Medical Center, Kentfield, California",
-    "signature": "",
     "provenVictims": "13",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Richard Ramirez was an American serial killer, serial rapist, kidnapper, pedophile, and burglar. His highly publicized home invasion and murder crime spree terrorized the residents of the Greater Los Angeles area and later the residents of the San Francisco Bay Area from June 1984 until August 1985. He used a wide variety of weapons, including handguns, knives, a machete, a tire iron, and a hammer. He also made use of Satanic imagery. Prior to his capture, Ramirez was dubbed the 'Valley Intruder' (as his attacks were first clustered in the San Gabriel Valley) and the 'Night Stalker' by the news media. In 1989, Ramirez was convicted of thirteen counts of murder, five attempted murders, eleven sexual assaults, and fourteen burglaries. The judge who upheld Ramirez's nineteen death sentences remarked that his deeds exhibited 'cruelty, callousness, and viciousness beyond any human understanding'. Ramirez never expressed any remorse for his crimes. He died of complications from B-cell lymphoma while awaiting execution on California's death row."
 },
 
 {
@@ -40,19 +35,9 @@
     "image": "ridgwayPhoto",
     "dateOfBirthAndLocation": "February 18, 1949 Salt Lake City, Utah",
     "dateOfDeathAndLocation": "",
-    "signature": "Stranglation",
     "provenVictims": "49",
     "possibleOrConfessedVictims": "71 - 90 +",
-    "description": "Gary Ridgway's slayings began in 1982, when young runaways and prostitutes began
-    disappearing from state Route 99 in South King County, Washington. He brought many of them to 
-    his home and strangled them, then left them in woodsy, remote sites. The first few bodies turned 
-    up along the now-notorious Green River. Dubbed the Green River Killer, Ridgway eluded the law 
-    until 2001, when King County sheriff Dave Reichert, the first officer assigned to the case in 
-    1982, called a meeting to re-examine evidence using newly developed DNA-testing technology. The 
-    analysis produced a match between evidence from the victims and Ridgway, and he was charged with 
-    four counts of aggravated murder in December 2001. Ridgway eventually pleaded guilty to 49 counts
-     of aggravated first-degree murder."
-    
+    "description": "Gary Ridgway's slayings began in 1982, when young runaways and prostitutes began disappearing from state Route 99 in South King County, Washington. He brought many of them to his home and strangled them, then left them in woodsy, remote sites. The first few bodies turned up along the now-notorious Green River. Dubbed the Green River Killer, Ridgway eluded the law until 2001, when King County sheriff Dave Reichert, the first officer assigned to the case in 1982, called a meeting to re-examine evidence using newly developed DNA-testing technology. The analysis produced a match between evidence from the victims and Ridgway, and he was charged with four counts of aggravated murder in December 2001. Ridgway eventually pleaded guilty to 49 counts of aggravated first-degree murder."
 },
 
 {
@@ -63,20 +48,9 @@
     "image": "deangeloPhoto",
     "dateOfBirthAndLocation": "November 8, 1945 Bath, New York",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "13 murders, 50 rapes, 120 burglaries",
     "possibleOrConfessedVictims": "",
-    "description": "Joseph James DeAngelo Jr. serial killer, serial rapist, burglar, and former 
-    police officer who committed at least 13 murders, 50 rapes, and 120 burglaries across California 
-    between 1973 and 1986. DeAngelo was responsible for at least three crime sprees throughout California, 
-    DeAngelo is believed to have taunted and threatened both victims and police in obscene phone calls 
-    and possibly written communications. Due to California's statute of limitations on pre-2017 rape 
-    cases, DeAngelo could not be charged with 1970s rapes; but he was charged in August 2018 with 13 
-    related kidnapping and abduction attempts. On June 29, 2020, DeAngelo pleaded guilty to multiple 
-    counts of murder and kidnapping. As part of a plea bargain that spared him the death penalty, 
-    DeAngelo also admitted to numerous crimes with which he had not been formally charged, including 
-    rapes. On August 21, 2020, DeAngelo was sentenced to life imprisonment without the possibility of 
-    parole."
+    "description": "Joseph James DeAngelo Jr. serial killer, serial rapist, burglar, and former police officer who committed at least 13 murders, 50 rapes, and 120 burglaries across California between 1973 and 1986. DeAngelo was responsible for at least three crime sprees throughout California, DeAngelo is believed to have taunted and threatened both victims and police in obscene phone calls and possibly written communications. Due to California's statute of limitations on pre-2017 rape cases, DeAngelo could not be charged with 1970s rapes; but he was charged in August 2018 with 13 related kidnapping and abduction attempts. On June 29, 2020, DeAngelo pleaded guilty to multiple counts of murder and kidnapping. As part of a plea bargain that spared him the death penalty, DeAngelo also admitted to numerous crimes with which he had not been formally charged, including rapes. On August 21, 2020, DeAngelo was sentenced to life imprisonment without the possibility of parole."
 },
 
 {
@@ -87,52 +61,22 @@
     "image": "harveyPhoto",
     "dateOfBirthAndLocation": "April 15, 19522 Butler County, Ohio",
     "dateOfDeathAndLocation": "March 30, 2017 Toledo, Ohio",
-    "signature": "",
     "provenVictims": "37",
     "possibleOrConfessedVictims": "37 - 87",
-    "description": "Donald Harvey has claimed to have murdered 87 people, though official estimates 
-    are between 37 and 57 victims. Harvey was able to accomplish this during his time as an orderly. 
-    Harvey said he started out killing to 'ease the pain' of patients by smothering them with their 
-    pillows. He mostly killed cardiac patients. Harvey used many methods to kill his victims, such 
-    as: arsenic, cyanide, insulin, suffocation, miscellaneous poisons, morphine, turning off 
-    ventilators, administration of fluid tainted with hepatitis B and/or HIV (which resulted in a 
-    hepatitis infection, but no HIV infection, and illness rather than death), and insertion of a 
-    coat hanger into a catheter, causing an abdominal puncture and subsequent peritonitis. Cyanide 
-    and arsenic were his most-used methods, with Harvey administering them via food or injections. 
-    The majority of Harvey's crimes took place at the Marymount Hospital (now St. Joseph's, London) 
-    in London, Kentucky, the Cincinnati V.A. Medical Hospital, and Cincinnati's Drake Memorial Hospital. 
-    At various times, he worked as an orderly or an autopsy assistant. Harvey did not limit his victims 
-    to helpless hospital patients. When he suspected his lover and roommate of infidelity, he poisoned 
-    his lover's food with arsenic. He poisoned two of his neighbors, sickening one, by putting hepatitis 
-    serum in her drink, and killing the other, by putting arsenic in her pie. He also killed lover's 
-    father with arsenic. Harvey kept his crimes from being discovered for 17 years"
+    "description": "Donald Harvey has claimed to have murdered 87 people, though official estimates are between 37 and 57 victims. Harvey was able to accomplish this during his time as an orderly. Harvey said he started out killing to 'ease the pain' of patients by smothering them with their pillows. He mostly killed cardiac patients. Harvey used many methods to kill his victims, such as: arsenic, cyanide, insulin, suffocation, miscellaneous poisons, morphine, turning off ventilators, administration of fluid tainted with hepatitis B and/or HIV (which resulted in a hepatitis infection, but no HIV infection, and illness rather than death), and insertion of a coat hanger into a catheter, causing an abdominal puncture and subsequent peritonitis. Cyanide and arsenic were his most-used methods, with Harvey administering them via food or injections. The majority of Harvey's crimes took place at the Marymount Hospital (now St. Joseph's, London) in London, Kentucky, the Cincinnati V.A. Medical Hospital, and Cincinnati's Drake Memorial Hospital. At various times, he worked as an orderly or an autopsy assistant. Harvey did not limit his victims to helpless hospital patients. When he suspected his lover and roommate of infidelity, he poisoned his lover's food with arsenic. He poisoned two of his neighbors, sickening one, by putting hepatitis serum in her drink, and killing the other, by putting arsenic in her pie. He also killed lover's father with arsenic. Harvey kept his crimes from being discovered for 17 years"
 },
 
 {
     "gender": "male",
-    "name": "Theodore Robert Bundy",
-    "alsoKnownAs": "",
+    "name": "Ted Bundy",
+    "alsoKnownAs": "Theodore Robert Bundy",
     "nickname": "The Lady Killer",
     "image": "bundyPhoto",
     "dateOfBirthAndLocation": "November 24, 1946 Burlinton, Vermont",
     "dateOfDeathAndLocation": "January 24, 1989 Florida State Prison, Bradford County, Florida",
-    "signature": "",
     "provenVictims": "",
     "possibleOrConfessedVictims": "30",
-    "description": "Ted Bundy was regarded as handsome and charismatic, traits that he exploited to 
-    win the trust of victims and society. He would typically approach his victims in public places, 
-    feigning injury or disability, or impersonating an authority figure, before knocking them 
-    unconscious and taking them to secluded locations to rape and strangle them. He sometimes 
-    revisited his victims, grooming and performing sexual acts with the decomposing corpses until 
-    putrefaction and destruction by wild animals made any further interactions impossible. He decapitated
-    at least 12 victims and kept some of the severed heads as mementos in his apartment. On a few 
-    occasions, he broke into dwellings at night and bludgeoned his victims as they slept. In 1975, 
-    Bundy was arrested and jailed in Utah for aggravated kidnapping and attempted criminal assault. 
-    He then became a suspect in a progressively longer list of unsolved homicides in several states. 
-    Facing murder charges in Colorado, he engineered two dramatic escapes and committed further assaults 
-    in Florida, including three murders, before his ultimate recapture in 1978. For the Florida homicides, 
-    he received three death sentences in two trials. Bundy was executed in the electric chair at Florida 
-    State Prison in Raiford, Florida, on January 24, 1989."
+    "description": "Ted Bundy was regarded as handsome and charismatic, traits that he exploited to win the trust of victims and society. He would typically approach his victims in public places, feigning injury or disability, or impersonating an authority figure, before knocking them unconscious and taking them to secluded locations to rape and strangle them. He sometimes revisited his victims, grooming and performing sexual acts with the decomposing corpses until putrefaction and destruction by wild animals made any further interactions impossible. He decapitated at least 12 victims and kept some of the severed heads as mementos in his apartment. On a few occasions, he broke into dwellings at night and bludgeoned his victims as they slept. In 1975, Bundy was arrested and jailed in Utah for aggravated kidnapping and attempted criminal assault. He then became a suspect in a progressively longer list of unsolved homicides in several states. Facing murder charges in Colorado, he engineered two dramatic escapes and committed further assaults in Florida, including three murders, before his ultimate recapture in 1978. For the Florida homicides, he received three death sentences in two trials. Bundy was executed in the electric chair at Florida State Prison in Raiford, Florida, on January 24, 1989."
 },
 
 {
@@ -143,57 +87,38 @@
     "image": "dahmerPhoto",
     "dateOfBirthAndLocation": "May 21, 1960 Milwaukee, Wisconsin",
     "dateOfDeathAndLocation": "November 28, 1994 Columbia Correctional Institution, Portage, Wisconsin",
-    "signature": "",
     "provenVictims": "17",
     "possibleOrConfessedVictims": "",
-    "description": "Jeffrey Dahmer serial killer and sex offender who committed the murder and dismemberment 
-    of 17 men and boys between 1978 and 1991. Many of his later murders involved necrophilia, cannibalism, and 
-    the permanent preservation of body parts—typically all or part of the skeleton. Although he was diagnosed 
-    with borderline personality disorder,[3] schizotypal personality disorder, and a psychotic disorder, 
-    Dahmer was found to be legally sane at his trial. He was convicted of 15 of the 16 murders he had 
-    committed in Wisconsin, and was sentenced to 15 terms of life imprisonment on February 15, 1992. 
-    Dahmer was later sentenced to a 16th term of life imprisonment for an additional homicide committed 
-    in Ohio in 1978. On November 28, 1994, Dahmer was beaten to death by Christopher Scarver, a fellow 
-    inmate at the Columbia Correctional Institution in Portage, Wisconsin."
+    "description": "Jeffrey Dahmer serial killer and sex offender who committed the murder and dismemberment of 17 men and boys between 1978 and 1991. Many of his later murders involved necrophilia, cannibalism, and the permanent preservation of body parts—typically all or part of the skeleton. Although he was diagnosed with borderline personality disorder, schizotypal personality disorder, and a psychotic disorder, Dahmer was found to be legally sane at his trial. He was convicted of 15 of the 16 murders he had committed in Wisconsin, and was sentenced to 15 terms of life imprisonment on February 15, 1992. Dahmer was later sentenced to a 16th term of life imprisonment for an additional homicide committed in Ohio in 1978. On November 28, 1994, Dahmer was beaten to death by Christopher Scarver, a fellow inmate at the Columbia Correctional Institution in Portage, Wisconsin."
 },
 
 {
     "gender": "male",
-    "name": "Dennis Lynn Rader",
-    "alsoKnownAs": "",
+    "name": "Dennis Rader",
+    "alsoKnownAs": "Dennis Lynn Rader",
     "nickname": "BTK, BTK Strangler, BTK Killer, ",
     "image": "raderPhoto",
     "dateOfBirthAndLocation": "March 9, 1945 Pittsburg, Kansas",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "10",
     "possibleOrConfessedVictims": "",
-    "description": "Dennis Rader known as BTK (an abbreviation he gave himself, for 'bind, torture, kill')
-    or the BTK Strangler or the BTK Killer. Between 1974 and 1991, Rader killed ten people in Wichita and 
-    Park City, Kansas, and sent taunting letters to police and newspapers describing the details of his 
-    crimes. After a decade-long hiatus, Rader resumed sending letters in 2004, leading to his 2005 arrest 
-    and subsequent guilty plea. He is serving ten consecutive life sentences at El Dorado Correctional 
-    Facility in Prospect Township, Butler County, Kansas. Massachusetts psychologist Robert Mendoza 
-    diagnosed Rader with narcissistic, antisocial and obsessive–compulsive personality disorders: 
-    He observed that Rader has a grandiose sense of self, a belief that he is 'special' and therefore 
-    entitled to special treatment; a pathological need for attention and admiration; a preoccupation with 
-    maintaining rigid order and structure; and a complete lack of empathy for his victims."
+    "description": "Dennis Rader known as BTK (an abbreviation he gave himself, for 'bind, torture, kill') or the BTK Strangler or the BTK Killer. Between 1974 and 1991, Rader killed ten people in Wichita and Park City, Kansas, and sent taunting letters to police and newspapers describing the details of his crimes. After a decade-long hiatus, Rader resumed sending letters in 2004, 
+    leading to his 2005 arrest and subsequent guilty plea. He is serving ten consecutive life sentences at El Dorado Correctional Facility in Prospect Township, Butler County, Kansas. Massachusetts psychologist Robert Mendoza diagnosed Rader with narcissistic, antisocial and obsessive–compulsive personality disorders: He observed that Rader has a grandiose sense of self, a belief that he is 'special' and therefore entitled to special treatment; a pathological need for attention and admiration; a preoccupation with maintaining rigid order and structure; and a complete lack of empathy for his victims."
 },
 
 {
     "gender": "male",
-    "name": "Herman Webster Mudgett",
-    "alsoKnownAs": "",
-    "nickname": "Dr. Henry Howard Holmes, H. H. Holmes",
+    "name": "H. H. Holmes",
+    "alsoKnownAs": "Herman Webster Mudgett, Dr. Henry Howard Holmes",
+    "nickname": "",
     "image": "mudgettPhoto",
     "dateOfBirthAndLocation": "May 16, 1861 Gilmanton, New Hampshire",
     "dateOfDeathAndLocation": "May 7, 1896 Moyamensing Prison, Philadelphia, Pennsylvania",
-    "signature": "",
     "provenVictims": "19",
     "possibleOrConfessedVictims": "confessed 27, suspect 200",
-    "description": ""
+    "description": "H. H. Holmes better known as Dr. Henry Howard Holmes, was an American serial killer. Despite his confession of 27 murders after the Pitezel trial awaiting execution, Holmes was convicted and sentenced to death for only one murder, that of accomplice and business partner Benjamin Pitezel. It is speculated that he may have killed as many as 200 people. Victims were killed in a mixed-use building which he owned in Chicago, located about three miles (5 kilometers) west of the 1893 World's Fair: Columbian Exposition, supposedly called the World's Fair Hotel (informally called 'The Murder Castle'), though evidence suggests the hotel portion was never truly open for business. Besides being a serial killer, Holmes was also a con artist and a trigamist, the subject of more than 50 lawsuits in Chicago alone. Holmes was executed on May 7, 1896, nine days before his 35th birthday."
 },
-
+=
 {
     "gender": "male",
     "name": "Lonnie David Franklin Jr.",
@@ -202,62 +127,48 @@
     "image": "franklinJrPhoto",
     "dateOfBirthAndLocation": "August 30, 1952 Los Angeles, California",
     "dateOfDeathAndLocation": "March 28, 2020 San Quentin State Prison, San Quentin, California",
-    "signature": "",
     "provenVictims": "10",
     "possibleOrConfessedVictims": "25",
-    "description": ""
+    "description": "Lonnie David Franklin Jr better known by the nickname Grim Sleeper, was an American serial killer who was responsible for at least ten murders and one attempted murder in Los Angeles, California from 1985 to 2007. He was also convicted for rape and sexual violence. Franklin earned his nickname when he appeared to have taken a fourteen-year break from his crimes, from 1988 to 2002. In July 2010, Franklin was arrested as a suspect, and, after many delays, his trial began in February 2016. On May 5, 2016, the jury convicted him of killing nine women and one teenage girl. On June 6, 2016, the jury recommended the death penalty, and on August 10, 2016, the Los Angeles Superior Court sentenced him to death for each of the ten victims named in the verdict. On March 28, 2020, Franklin was found dead in his cell at San Quentin State Prison."
 },
 
 {
     "gender": "male",
-    "name": "Andrei Romanovich Chikatilo",
-    "alsoKnownAs": "",
+    "name": "Andrei Chikatilo",
+    "alsoKnownAs": "Andrei Romanovich Chikatilo",
     "nickname": "Butcher of Rostov, The Red Ripper, The Rostov Ripper",
     "image": "chikatiloPhoto",
     "dateOfBirthAndLocation": "October 16, 1936 Yabluchne, Ukraine",
     "dateOfDeathAndLocation": "February 14, 1994 Novocherkassk, Russia",
-    "signature": "",
     "provenVictims": "53",
     "possibleOrConfessedVictims": "56 +",
-    "description": "Andrei Romanovich Chikatilo who sexually assaulted, murdered, and mutilated at 
-    least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, 
-    and the Uzbek SSR. Chikatilo confessed to fifty-six murders, fifty-three for which he was tried 
-    in April 1992. He was convicted and sentenced to death for fifty-two murders in October 1992, 
-    although the Supreme Court of Russia ruled in 1993 that insufficient evidence existed to prove 
-    his guilt in nine of those killings. Chikatilo was subsequently executed in February 1994."
+    "description": "Andrei Romanovich Chikatilo who sexually assaulted, murdered, and mutilated at least fifty-two women and children between 1978 and 1990 in the Russian SFSR, the Ukrainian SSR, and the Uzbek SSR. Chikatilo confessed to fifty-six murders, fifty-three for which he was tried in April 1992. He was convicted and sentenced to death for fifty-two murders in October 1992, although the Supreme Court of Russia ruled in 1993 that insufficient evidence existed to prove his guilt in nine of those killings. Chikatilo was subsequently executed in February 1994."
 },
 
 {
     "gender": "male",
-    "name": "Joachim Georg Kroll",
-    "alsoKnownAs": "",
+    "name": "Joachim Kroll",
+    "alsoKnownAs": "Joachim Georg Kroll",
     "nickname": "The Duisburg Man-Eater, The Ruhr Cannibal",
     "image": "krollPhoto",
     "dateOfBirthAndLocation": "April 17, 1933 Zabrze, Poland",
     "dateOfDeathAndLocation": "July 1, 1991 Rheinbach, Germany",
-    "signature": "",
     "provenVictims": "8",
     "possibleOrConfessedVictims": "14",
-    "description": "Joachim Georg Kroll a cannibalistic German serial killer claimed that he ate parts 
-    of his victims to save money, because meat was expensive. He evaded capture for two decades, and over 
-    the years six other men were arrested for crimes he committed. But Joachim Kroll’s gruesome killing 
-    spree finally came to an end after he clogged a shared toilet with a victim’s entrails, leading to 
-    his capture. Joachim was convicted of eight murders and one attempted murder, but confessed to a 
-    total of 14. He was sentenced to life imprisonment in 1982."
+    "description": "Joachim Georg Kroll a cannibalistic German serial killer claimed that he ate parts of his victims to save money, because meat was expensive. He evaded capture for two decades, and over the years six other men were arrested for crimes he committed. But Joachim Kroll’s gruesome killing spree finally came to an end after he clogged a shared toilet with a victim’s entrails, leading to his capture. Joachim was convicted of eight murders and one attempted murder, but confessed to a total of 14. He was sentenced to life imprisonment in 1982."
 },
 
 {
     "gender": "male",
     "name": "Pedro Lopez",
-    "alsoKnownAs": "",
+    "alsoKnownAs": "Pedro Alonso Lopez",
     "nickname": "Monster of the Andes",
     "image": "lopezPhoto",
     "dateOfBirthAndLocation": "October 8, 1948 Santa Isabel, Colombia",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "110",
     "possibleOrConfessedVictims": "300",
-    "description": ""
+    "description": "Pedro Lopez is a Colombian serial killer and child killer, who was sentenced for killing 110 girls, but who claimed to have raped and killed more than 300 girls across Colombia, Peru and Ecuador. Aside from uncited local accounts, Lopez' crimes first received international attention from an interview conducted by Ron Laytner, a longtime freelance photojournalist who reported interviewing López in his Ambato prison cell in 1980. According to Laytner's story, Lopez became known as the Monster of the Andes in 1980, when he led police to 53 graves in Ecuador. The victims were all girls 12 years of age. In 1983, he was found guilty of the murder of 110 girls in Ecuador. He further confessed to an additional 240 murders in Peru and Colombia."
 },
 
 {
@@ -268,23 +179,9 @@
     "image": "gacyPhoto",
     "dateOfBirthAndLocation": "March 17, 1942, Chicago, Illinois",
     "dateOfDeathAndLocation": "May 10, 1994 Stateville Correctional Center, Crest Hill, Illinois",
-    "signature": "",
     "provenVictims": "33",
     "possibleOrConfessedVictims": "34 +",
-    "description": "John Wayne Gacy known as the Killer Clown who assaulted and murdered at least 
-    33 young men and boys. Gacy regularly performed at children's hospitals and charitable events 
-    as 'Pogo the Clown' or 'Patches the Clown', personas he had devised. He was also active in his 
-    local community as a Democratic Party precinct captain and building contractor. According to 
-    Gacy, all of his murders were committed inside his ranch house near Norridge, a village in 
-    Norwood Park Township, metropolitan Chicago, Illinois. Typically, he would lure a victim to his 
-    home, dupe him into donning handcuffs on the pretext of demonstrating a magic trick, then rape 
-    and torture his captive before killing him by either asphyxiation or strangulation with a garrote. 
-    Twenty-six victims were buried in the crawl space of his home, and three others were buried 
-    elsewhere on his property. Four were discarded in the Des Plaines River. His conviction for 
-    33 murders was the most by one individual in United States history at the time. Gacy was sentenced
-    to death on March 13, 1980. On death row at Menard Correctional Center, he spent much of his time 
-    painting. He was executed by lethal injection at Stateville Correctional Center on May 10, 1994."
-    
+    "description": "John Wayne Gacy known as the Killer Clown who assaulted and murdered at least 33 young men and boys. Gacy regularly performed at children's hospitals and charitable events as 'Pogo the Clown' or 'Patches the Clown', personas he had devised. He was also active in his local community as a Democratic Party precinct captain and building contractor. According to Gacy, all of his murders were committed inside his ranch house near Norridge, a village in Norwood Park Township, metropolitan Chicago, Illinois. Typically, he would lure a victim to his home, dupe him into donning handcuffs on the pretext of demonstrating a magic trick, then rape and torture his captive before killing him by either asphyxiation or strangulation with a garrote. Twenty-six victims were buried in the crawl space of his home, and three others were buried elsewhere on his property. Four were discarded in the Des Plaines River. His conviction for 33 murders was the most by one individual in United States history at the time. Gacy was sentenced to death on March 13, 1980. On death row at Menard Correctional Center, he spent much of his time painting. He was executed by lethal injection at Stateville Correctional Center on May 10, 1994."
 },
 
 {
@@ -295,74 +192,126 @@
     "image": "umayrPhoto",
     "dateOfBirthAndLocation": "October 8, 1956 Lahore, Pakistan",
     "dateOfDeathAndLocation": "October 8, 2001 Lahore Central Jail Lahore, Pakistan",
-    "signature": "",
     "provenVictims": "100",
     "possibleOrConfessedVictims": "",
-    "description": "Javed Iqbal Umayr was a Pakistani serial killer and pederast who confessed to 
-    the sexual abuse and murder of 100 boys, ranging in age from 6 to 16. Iqbal strangled the victims, 
-    dismembered the corpses and dissolved them in acid as a way to conceal the evidence. He was found 
-    guilty and sentenced to death in the same manner that he killed the boys, being strangled first, 
-    then cut into a hundred pieces, in front of the parents of the victims, one piece for each victim, 
-    then be dissolved into acid, but he committed suicide before the sentence could be carried out."
+    "description": "Javed Iqbal Umayr was a Pakistani serial killer and pederast who confessed to the sexual abuse and murder of 100 boys, ranging in age from 6 to 16. Iqbal strangled the victims, dismembered the corpses and dissolved them in acid as a way to conceal the evidence. He was found guilty and sentenced to death in the same manner that he killed the boys, being strangled first, then cut into a hundred pieces, in front of the parents of the victims, one piece for each victim, then be dissolved into acid, but he committed suicide before the sentence could be carried out."
 },
 
 {
     "gender": "male",
-    "name": "Anthony Edward Sowell",
-    "alsoKnownAs": "",
+    "name": "Anthony Sowell",
+    "alsoKnownAs": "Anthony Edward Sowell",
     "nickname": "Cleveland Strangler",
     "image": "sowellPhoto",
     "dateOfBirthAndLocation": "August 19, 1959 Ohio",
     "dateOfDeathAndLocation": "February 8, 2021 Columbus, Ohio",
-    "signature": "",
     "provenVictims": "11",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Anthony Sowell is an American serial killer and rapist known as the Cleveland Strangler. He was arrested in October 2009 after the bodies of 11 women were discovered by police at his home in the Mount Pleasant neighborhood of Cleveland, Ohio. "
 },
 
 {
     "gender": "male",
-    "name": "Harold Frederick Shipman",
-    "alsoKnownAs": "Fred Shipman",
+    "name": "Fred Shipman",
+    "alsoKnownAs": "Harold Frederick Shipman",
     "nickname": "",
     "image": "shipmanPhoto",
     "dateOfBirthAndLocation": "January 14, 1946 Bestwood Nottingham, United Kingdom",
     "dateOfDeathAndLocation": "January 13, 2004 Her Majesty's Prison Wakefield Wakefield, United Kingdom",
-    "signature": "",
     "provenVictims": "215",
     "possibleOrConfessedVictims": "216 +",
-    "description": "Harold Frederick Shipman an English general practitioner who is believed to be one 
-    of the most prolific serial killers in modern history. On 31 January 2000, he was found guilty of 
-    the murder of 15 patients under his care; his total number of victims was approximately 250. Shipman
-    was sentenced to life imprisonment with the recommendation that he never be released. He died by 
-    suicide by hanging on 13 January 2004, a day before his 58th birthday, in his cell at HM Prison 
-    Wakefield, West Yorkshire. The inquiry A two year investigation of Shipman's crimes have identified 
-    215 victims and estimated his total victim count at 250, about 80 percent of whom were elderly women. 
-    Shipman's youngest confirmed victim was a 41-year-old man, although suspicion arose that he had 
-    killed patients as young as four."
+    "description": "Harold Frederick Shipman an English general practitioner who is believed to be one of the most prolific serial killers in modern history. On 31 January 2000, he was found guilty of the murder of 15 patients under his care; his total number of victims was approximately 250. Shipman was sentenced to life imprisonment with the recommendation that he never be released. He died by suicide by hanging on 13 January 2004, a day before his 58th birthday, in his cell at HM Prison Wakefield, West Yorkshire. The inquiry A two year investigation of Shipman's crimes have identified 215 victims and estimated his total victim count at 250, about 80 percent of whom were elderly women. Shipman's youngest confirmed victim was a 41-year-old man, although suspicion arose that he had killed patients as young as four."
 },
 
 {
     "gender": "male",
-    "name": "William George Bonin",
-    "alsoKnownAs": "",
+    "name": "William Bonin",
+    "alsoKnownAs": "William George Bonin",
     "nickname": "Freeway Killer",
     "image": "boninPhoto",
     "dateOfBirthAndLocation": "January 8, 1947 Willimantic, CT",
     "dateOfDeathAndLocation": "February 23, 1996 San Quentin State Prison San Quentin, CA",
-    "signature": "",
     "provenVictims": "14",
     "possibleOrConfessedVictims": "36 +",
-    "description": "William George Bonin also known as the Freeway Killer, was an American serial 
-    killer and twice-paroled sex offender who committed the rape, torture, and murder of a minimum
-    of 21 boys and young men in a series of killings in 1979 and 1980 in southern California. Bonin
-    is also suspected of committing a further 15 murders. Described by the prosecutor at his first
-    trial as 'the most arch-evil person who ever existed', Bonin was convicted of 14 of the murders 
-    linked to the 'Freeway Killer' in two separate trials in 1982 and 1983. He spent 14 years on 
-    death row before he was executed by lethal injection at San Quentin State Prison in 1996.
-    Bonin became known as the 'Freeway Killer' due to the fact that the majority of his victims' 
-    bodies were discovered alongside numerous freeways in southern California."
+    "description": "William George Bonin also known as the Freeway Killer, was an American serial killer and twice-paroled sex offender who committed the rape, torture, and murder of a minimum of 21 boys and young men in a series of killings in 1979 and 1980 in southern California. Bonin is also suspected of committing a further 15 murders. Described by the prosecutor at his first trial as 'the most arch-evil person who ever existed', Bonin was convicted of 14 of the murders linked to the 'Freeway Killer' in two separate trials in 1982 and 1983. He spent 14 years on death row before he was executed by lethal injection at San Quentin State Prison in 1996. Bonin became known as the 'Freeway Killer' due to the fact that the majority of his victims' bodies were discovered alongside numerous freeways in southern California."
+},
+
+{
+    "gender": "male",
+    "name": "Arnfinn Nesset",
+    "alsoKnownAs": "",
+    "nickname": "",
+    "image": "nessetPhoto",
+    "dateOfBirthAndLocation": "October 25, 1936 Trondelag, Norway",
+    "dateOfDeathAndLocation": "",
+    "provenVictims": "22",
+    "possibleOrConfessedVictims": "138",
+    "description": "Arnfinn Nesset is a Norwegian former nurse, nursing home manager and convicted serial killer. His crimes include the murders of at least 22 people, as well as attempted murder, document forgery and embezzlement. He may have murdered up to 138 people. In 1983 he was convicted of poisoning 22 patients and sentenced to 21 years in prison. He served 12 years and 10 years supervision, and is thought to be living under an assumed name."
+},
+
+{
+    "gender": "male",
+    "name": "Ronald Dominique",
+    "alsoKnownAs": "Ronald Joseph Dominique",
+    "nickname": "The Bayou Strangler",
+    "image": "dominiquePhoto",
+    "dateOfBirthAndLocation": "January 9, 1964 Thibodaux, Louisiana",
+    "dateOfDeathAndLocation": "",
+    "provenVictims": "23",
+    "possibleOrConfessedVictims": "23 +",
+    "description": "Ronald Dominique also known as The Bayou Strangler, is an American serial killer and rapist who murdered at least 23 men and boys in the state of Louisiana between July 1997 and 2006. On September 23, 2008, Dominique was found guilty and sentenced to several terms of life imprisonment without parole for his crimes. Following his conviction, the FBI stated that this case was the most significant serial homicide case in the country over the past two decades in terms of both numbers and duration."
+},
+
+{
+    "gender": "male",
+    "name": "Mikhail Popkov",
+    "alsoKnownAs": "Mikhail Viktorovich Popkov",
+    "nickname": "The Werewolf, Angarsk Maniac",
+    "image": "popkovPhoto",
+    "dateOfBirthAndLocation": "March 7, 1964 Angarsk, Russia",
+    "dateOfDeathAndLocation": "",
+    "provenVictims": "78",
+    "possibleOrConfessedVictims": "83",
+    "description": "Mikhail Popkov is a Russian serial killer and rapist who sexually assaulted and murdered 78 women between 1992 and 2010 in Angarsk, Irkutsk in Siberia, and Vladivostok in Far East. He is known as 'The Werewolf' and the 'Angarsk Maniac' for the brutal nature of his crimes. One of Russia's most prolific serial killers, Popkov was convicted of 22 murders in 2015, and confessed to 59 additional homicides three years later. On December 10, 2018 he was convicted for 56 of the 59 additional homicides. For three killings, the police could not find proof. Popkov received a second life sentence. There were calls for Popkov to be executed, but this was unavailable as capital punishment is not allowed in Russia."
+},
+
+{
+    "gender": "male",
+    "name": "Karl Denke",
+    "alsoKnownAs": "",
+    "nickname": "The Forgotten Cannibal, The Cannibal of Ziębice.",
+    "image": "denkePhoto",
+    "dateOfBirthAndLocation": "December 22, 1924 Ziebice, Poland",
+    "dateOfDeathAndLocation": "",
+    "provenVictims": "30",
+    "possibleOrConfessedVictims": "42 +",
+    "description": "Karl Denke was a German serial killer and cannibal who killed and cannibalized dozens of homeless vagrants and travelers from 1903-1924. He is often regarded as The Forgotten Cannibal or The Cannibal of Ziebice. He is also believed to have sold the flesh of his victims as meat to unsuspecting customers. Denke's home was searched and police found the gruesome truth of his murders and cannibalism. While the exact number of his victims is unknown, Denke's ledger had 31 names recorded (including an escaped victim), confirming at least 30 victims. But due to the large number of body parts found in his home, Denke's body count was estimated to be as high as 42 or even higher. Decades later, the case of the Ziebice cannibal remains mostly forgotten. Still much about Denke's life, motives, methods, and even the exact number of victims remains unknown. Even the only known photograph of him was taken after his death."
+},
+
+{
+    "gender": "male",
+    "name": "Fritz Haarmann",
+    "alsoKnownAs": "Friedrich Heinrich Karl Haarmann",
+    "nickname": "Butcher of Hanover, The Vampire of Hanover, The Wolf Man",
+    "image": "haarmannPhoto",
+    "dateOfBirthAndLocation": "October 25, 1879 Hanover, Germany",
+    "dateOfDeathAndLocation": "April 15, 1925 Hanover, Germany",
+    "provenVictims": "24",
+    "possibleOrConfessedVictims": "27",
+    "description": "Fritz Haarmann was a German serial killer, known as The Butcher of Hanover, The Vampire of Hanover and The Wolf Man, who committed the sexual assault, murder, mutilation and dismemberment of at least 24 boys and young men between 1918 and 1924 in Hanover, Germany. Haarmann was found guilty of 24 of the 27 murders for which he was tried and sentenced to death by beheading in December 1924. In addition, in accordance with German practice, his honorary rights of citizenship were revoked. He was subsequently executed in April 1925. Haarmann became known as the Butcher of Hanover due to the extensive mutilation and dismemberment committed upon his victims' bodies and by such titles as the Vampire of Hanover and the Wolf Man because of his preferred murder method of biting into or through his victims' throats."
+},
+
+{
+    "gender": "male",
+    "name": "Luis Garavito",
+    "alsoKnownAs": "Luis Alfredo Garavito Cubillos",
+    "nickname": "La Bestia 'The Beast', Tribilin 'Goofy'",
+    "image": "garavitoPhoto",
+    "dateOfBirthAndLocation": "January 25, 1957 Genova, Colombia",
+    "dateOfDeathAndLocation": "",
+    "provenVictims": "138",
+    "possibleOrConfessedVictims": "300",
+    "description": "Luis Garavito also known as La Bestia 'The Beast' or Tribilín (named after the Disney character Goofy), is a Colombian rapist and serial killer. In 1999, he admitted to the rape, torture and murder of 138 boys and teenagers. His victims, based on the locations of skeletons listed on maps that Garavito drew in prison, could exceed 300; Garavito continues to confess to more murders. He has been described by local media as 'the world's worst serial killer'.The judicial body ruled that all Garavito's sentences total 1,853 years and nine days in jail. However, Colombian law limits imprisonment to 40 years—and because Garavito helped police find the victims' bodies, his sentence was further reduced to 22 years. Garavito is currently serving his sentence in a maximum-security prison in Valledupar in the department of El Cesar in Colombia. He is held separately from all other prisoners because it is feared that he would be killed immediately. He is scheduled to become eligible for parole in 2023. Colombian law, however, says that those who have committed crimes against children are not eligible to receive any 'benefits with justice' and are required to spend at least 60 years of their sentence in prison ⁠— ⁠in Garavito's case this would mean that the national maximum 40-year imprisonment limit, and especially the reduction to 22 years for helping police find victims' bodies, both considered 'justice benefits', would not be applicable."
 },
 
 {
@@ -373,34 +322,22 @@
     "image": "bathoryPhoto",
     "dateOfBirthAndLocation": "August 7, 1560 Nyirbator, Hungary",
     "dateOfDeathAndLocation": "August 1614 Cachtice Castle, Cachtice, Slovakia",
-    "signature": "",
     "provenVictims": "",
     "possibleOrConfessedVictims": "600",
-    "description": "Countess Elizabeth Bathory was a wealthy and powerful Hungarian noblewoman whose 
-    relations included an uncle who was king of Poland and a nephew who was prince of Transylvania. 
-    In 1610 she was accused of gruesome acts of serial murder and confined to her home of Castle 
-    Čachtice, where she remained until her death. Bathory is reputed to have killed at least six 
-    hundred victims, earning her a Guinness World Record for most prolific female murderer. Her 
-    actions resulted in a nickname of the 'Blood Countess'. However, it's possible Bathory was 
-    not guilty of all the crimes that have been laid at her feet."
+    "description": "Countess Elizabeth Bathory was a wealthy and powerful Hungarian noblewoman whose relations included an uncle who was king of Poland and a nephew who was prince of Transylvania. In 1610 she was accused of gruesome acts of serial murder and confined to her home of Castle Čachtice, where she remained until her death. Bathory is reputed to have killed at least six hundred victims, earning her a Guinness World Record for most prolific female murderer. Her actions resulted in a nickname of the 'Blood Countess'. However, it's possible Bathory was not guilty of all the crimes that have been laid at her feet."
 },
 
 {
     "gender": "female",
-    "name": "Aileen Carol'Lee' Wuornos",
-    "alsoKnownAs": "",
+    "name": "Aileen Wuornos",
+    "alsoKnownAs": "Aileen Carol'Lee' Wuornos",
     "nickname": "",
     "image": "wuornosPhoto",
     "dateOfBirthAndLocation": "February 29, 1956, Rochester, Michigan",
     "dateOfDeathAndLocation": "October 9, 2002 Florida State Prison, Bradford County, Florida",
-    "signature": "",
     "provenVictims": "7",
     "possibleOrConfessedVictims": "",
-    "description": "Aileen Carol'Lee' Wuornos was an American serial killer and sex worker who murdered 
-    seven men in Florida in 1989 and 1990 by shooting them at point-blank range. Wuornos claimed that 
-    her victims had either raped or attempted to rape her while they were soliciting sex from her, 
-    and that all of the homicides were committed in self-defense. She was sentenced to death for six 
-    of the murders and was executed by lethal injection on October 9, 2002."
+    "description": "Aileen Carol'Lee' Wuornos was an American serial killer and sex worker who murdered seven men in Florida in 1989 and 1990 by shooting them at point-blank range. Wuornos claimed that her victims had either raped or attempted to rape her while they were soliciting sex from her, and that all of the homicides were committed in self-defense. She was sentenced to death for six of the murders and was executed by lethal injection on October 9, 2002."
 },
 
 {
@@ -411,12 +348,9 @@
     "image": "toppanPhoto",
     "dateOfBirthAndLocation": "March 31, 1854 Boston, Massachusetts",
     "dateOfDeathAndLocation": "October 29, 1938 Department of Youth Services, Taunton, Massachusetts",
-    "signature": "",
     "provenVictims": "31",
     "possibleOrConfessedVictims": "",
-    "description": "Jane Toppan nicknamed 'Jolly Jane' was arrested in 1901, she confessed to 31 
-    murders, but only 12 were confirmed. Toppan is quoted as saying that her ambition was 'to have 
-    killed more people—helpless people—than any other man or woman who ever lived.'"
+    "description": "Jane Toppan nicknamed 'Jolly Jane' was arrested in 1901, she confessed to 31 murders, but only 12 were confirmed. Toppan is quoted as saying that her ambition was 'to have killed more people—helpless people—than any other man or woman who ever lived.'"
 },
 
 {
@@ -427,85 +361,74 @@
     "image": "dossPhoto",
     "dateOfBirthAndLocation": "November 4, 1905 Phawngpui 'Blue Mountain', India",
     "dateOfDeathAndLocation": "June 2, 1965, Oklahoma State Penitentiary, McAlester, OK",
-    "signature": "",
     "provenVictims": "11",
     "possibleOrConfessedVictims": "",
-    "description": ""
+    "description": "Nannie Doss was an American serial killer responsible for the deaths of 11 people between some time in the 1920s and 1954. Doss was referred to as the Giggling Granny, the Lonely Hearts Killer, the Black Widow, and Lady Blue Beard. She was called a 'self-made widow' by a newspaper. Doss finally confessed to the murders in October 1954, after her fifth husband had died in a small hospital in Tulsa, Oklahoma. In all, it was revealed that she had killed four husbands, two children, her sister, her mother, two grandsons, and a mother-in-law."
 },
 
 {
     "gender": "female",
     "name": "Juana Barraza",
     "alsoKnownAs": "",
-    "nickname": "La Mataviejitas",
+    "nickname": "La Mataviejitas 'The Old Lady Killer', La Dama del Silencio 'The Lady of Silence'",
     "image": "barrazaPhoto",
     "dateOfBirthAndLocation": "December 27, 1957 Hidalgo, Mexico",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "17",
     "possibleOrConfessedVictims": "29 - 49",
-    "description": ""
-    
+    "description": "Juana Barraza is a former female wrestler dubbed La Dama del Silencio 'The Lady of Silence' who bludgeoned or strangled elderly women to rob them. Sentenced to 759 years. Barraza associated her elderly victims with her mother and believed that she was helping society by killing them. In order to gain the trust of her victims, Barraza posed as a government official who worked in social welfare. Because of this, Barraza is placed in the 'care giving' category of female killers. The trauma of Barraza's childhood abuse was a factor in her murders. Barraza's mother, Justa Samperio, was an alcoholic who reportedly exchanged her for three beers to a man who repeatedly raped her in his care, and by whom she became pregnant with a son"
 },
 
 {
     "gender": "female",
-    "name": "Belle Gunness 'Brynhild Paulsdatter Storset'",
-    "alsoKnownAs": "",
+    "name": "Belle Gunness",
+    "alsoKnownAs": "Brynhild Paulsdatter Storset",
     "nickname": "",
     "image": "gunnessPhoto",
     "dateOfBirthAndLocation": "November 11, 1859 Selbu, Norway",
     "dateOfDeathAndLocation": "April 28, 1908 La Porte, Indiana",
-    "signature": "",
-    "provenVictims": "",
+    "provenVictims": "14",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Norwegian-American serial killer who was active in Illinois and Indiana between 1884 and 1908. Gunness is thought to have killed at least fourteen people, most of whom were men she enticed to visit her rural Indiana property on the promise of marriage, while some sources speculate her involvement in as many as forty murders. Gunness seemingly died in a fire in 1908, but it is popularly believed that she faked her death. Her actual fate is unconfirmed."
 },
 
 {
     "gender": "female",
-    "name": "Dorothea Helen Puente",
-    "alsoKnownAs": "",
+    "name": "Dorothea Puente",
+    "alsoKnownAs": "Dorothea Helen Puente",
     "nickname": "Death House Landlady, The Black Widow of Sacramento, The Grandma Serial Killer",
     "image": "puentePhoto",
     "dateOfBirthAndLocation": "January 9, 1929 Redlands, California",
     "dateOfDeathAndLocation": "March 27, 2011 Central California Women's Facility, Chowchilla, California",
-    "signature": "",
-    "provenVictims": "",
+    "provenVictims": "9 - 15",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "In the 1980s, Puente ran a boarding house in Sacramento, California and murdered various elderly and mentally disabled boarders before cashing their Social Security checks. Her total count reached nine confirmed murders, and six unconfirmed. Newspapers dubbed Puente the 'Death House Landlady.'"
 },
 
 {
     "gender": "female",
-    "name": "Judias V. 'Judy' Buenoano",
-    "alsoKnownAs": "",
+    "name": "Judy Buenoano",
+    "alsoKnownAs": "Judy Welty, Judias Goodyear, Judias Morris, Judias V. Buenoano",
     "nickname": "",
     "image": "buenoanoPhoto",
     "dateOfBirthAndLocation": "April 4, 1943 Quanah, Texas",
     "dateOfDeathAndLocation": "March 30, 1998 Starke, Florida",
-    "signature": "",
     "provenVictims": "3",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Judias Buenoano who was executed for the 1971 murder of her husband James Goodyear. She was also convicted for the 1980 murder of her son Michael Buenoano and of the 1983 attempted murder of her boyfriend John Gentry. Buenoano is also acknowledged to have been responsible for the 1978 death of her boyfriend Bobby Joe Morris in Colorado; however, by the time authorities made the connection between Buenoano and Morris, she had already been sentenced to death in the state of Florida. Buenoano is also believed to have been involved in a 1974 murder in Alabama, and in the 1980 death of her boyfriend Gerald Dossett. After her arrest, Dossett's body was exhumed and analyzed for signs of arsenic poisoning. No charges were laid in that case. Buenoano was the first woman to be executed in Florida since 1848"
 },
 
 {
     "gender": "female",
-    "name": "Rosemary Pauline West 'Rose West'",
-    "alsoKnownAs": "",
+    "name": "Rose West",
+    "alsoKnownAs": "Rosemary Pauline West",
     "nickname": "",
     "image": "westPhoto",
     "dateOfBirthAndLocation": "November 29, 1953 Northam, United Kingdom",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Rose West a English serial killer who collaborated with her husband, Fred West, in the torture and murder of at least nine young women between 1973 and 1987; she was also judged to have murdered her eight-year-old stepdaughter, Charmaine, in 1971. The majority of these murders took place at the Wests' residence at 25 Cromwell Street, Gloucester. Rose is now an inmate at HM Prison New Hall, Flockton, West Yorkshire, after being convicted in 1995 of ten murders; Fred committed suicide in prison that same year while awaiting trial."
 },
 
 {
@@ -516,11 +439,9 @@
     "image": "saltykovaPhoto",
     "dateOfBirthAndLocation": "March 22, 1730 Russian Empire",
     "dateOfDeathAndLocation": "December 27, 1801 Ivanovsky Convent Moscow, Russia",
-    "signature": "",
-    "provenVictims": "",
-    "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "provenVictims": "38",
+    "possibleOrConfessedVictims": "138",
+    "description": "Darya Nikolayevna Saltykova was a Russian noblewoman, sadist, and serial killer from Moscow, who became notorious for torturing and killing most of her serfs, mostly females. Saltykova has been compared to the earlier Hungarian 'Blood Countess', Elizabeth Báthory, who committed similar crimes against servant girls and local serfs. Early complaints to authorities about the deaths at the Saltykova estate were ignored, or resulted in punishment for complaining. Darya Nikolayevna was well connected with those in power at the Russian royal court and with the Russian nobility. Eventually, relatives of the murdered women were able to bring a petition before Empress Catherine II. Catherine decided to try Saltykova publicly, in order to further her 'lawfulness' initiative. Saltykova was arrested in 1762. Darya Nikolayevna Saltykova was held for six years until 1768 while the authorities conducted a painstaking investigation. Catherine's Collegium of Justice questioned many witnesses and examined the records of the Saltykov estate. The investigating official counted as many as 138 suspicious deaths, of which the vast majority were attributed to Saltykova. Darya Nikolayevna Saltykova was found guilty of having killed 38 female serfs by beating and torturing them to death, but the Empress Catherine was unsure how to punish her; the death penalty was abolished in Russia in 1754, and the new Empress needed the support of the nobility. In 1768, Darya Nikolayevna Saltykova was chained on a public platform in Moscow for one hour, with a sign around her neck with the text: 'This woman has tortured and murdered.' Many people came to look at her while she was being scornfully ridiculed. Afterward, Saltykova was sent for life imprisonment in the cellar of Ivanovsky Convent in Moscow. Darya Nikolayevna Saltykova died on December 9, 1801 and was buried next to her relatives in the Donskoy Monastery necropolis."
 },
 
 {
@@ -531,11 +452,10 @@
     "image": "brinvilliersPhoto",
     "dateOfBirthAndLocation": "Paris, France",
     "dateOfDeathAndLocation": "Paris, France",
-    "signature": "",
     "provenVictims": "3",
-    "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "possibleOrConfessedVictims": "36",
+    "description": "A French aristocrat who was accused and convicted of murdering her father and two of her brothers in order to inherit their estates. After her death, there was speculation that she poisoned upwards of 30 sick people in hospitals to test out her poisons, but these rumors were never confirmed. Her crimes were discovered after the death of her lover and co-conspirator, Captain Godin de Sainte-Croix who saved letters detailing dealings of poisonings between the two. After being arrested, she was tortured, forced to confess, and finally executed. Her trial and death spawned the onset of the Affair of the Poisons, a major scandal during the reign of Louis XIV accusing aristocrats of practicing witchcraft and poisoning people. Components of her life have been adapted into various different mediums including: short stories, poems, and songs to name a 
+    few."
 },
 
 {
@@ -546,26 +466,22 @@
     "image": "overbyePhoto",
     "dateOfBirthAndLocation": " April 23, 1887 Skanderborg, Denmark",
     "dateOfDeathAndLocation": "May 6, 1929 Vestre Faengsel Copenhagen, Denmark",
-    "signature": "",
     "provenVictims": "9",
     "possibleOrConfessedVictims": "25",
-    "description": ""
-    
+    "description": "Dagmar Johanne Amalie Overbye a Danish serial killer. She murdered between 9 and 25 children, including one of her own, during a seven-year period from 1913 to 1920. On March 3, 1921, she was sentenced to death in one of the most noted trials in Danish history—one that changed legislation on childcare. The sentence was later commuted to life in prison. Overbye was working as a professional child caretaker, caring for babies born outside of marriage, murdering her own charges. She strangled them, drowned them or burned them to death in her masonry heater. The corpses were either cremated, buried or hidden in the loft. Overbye was convicted of nine murders, as there were insufficient proof of the others. Her lawyer based the case on Overbye being abused herself as a baby, but that did not impress the judge. She became one of the three women sentenced to death in Denmark in the 20th century, but she – like the other two – was reprieved."
 },
 
 {
     "gender": "female",
     "name": "Gesche Margarethe Gottfried",
-    "alsoKnownAs": "",
-    "nickname": "Gesche Margarethe Timm",
+    "alsoKnownAs": "Gesche Margarethe Timm",
+    "nickname": "Angel of Bremen",
     "image": "gottfriedPhoto",
     "dateOfBirthAndLocation": "March 6, 1785 Breman, Germany",
     "dateOfDeathAndLocation": "April 21, 1831 Bremen, Germany",
-    "signature": "",
     "provenVictims": "15",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "was a serial killer who murdered 15 people by arsenic poisoning in Bremen and Hanover, Germany, between 1813 and 1827. She was the last person to be publicly executed in the city of Bremen. Gottfried's victims included her parents, her two husbands, her fiancé and her children. Before being suspected and convicted of the murders, she garnered widespread sympathy among the inhabitants of Bremen because so many of her family and friends fell ill and died. Because of her devoted nursing of the victims during their time of suffering, she was known as the 'Angel of Bremen' until her murders were discovered. Gottfried used a rat poison called 'mouse butter' which consisted of small flakes of arsenic mixed in animal fat. She mixed small doses into her victims food, eventually they started to get sick and Gottfried 'friendly, selfless and resignedly' offered to take care of them during their convalescence, while continuing to poison them."
 },
 
 {
@@ -576,26 +492,22 @@
     "image": "cianciulliPhoto",
     "dateOfBirthAndLocation": "April 14, 1894 Montella Italy",
     "dateOfDeathAndLocation": "Octobeer 15, 1970 Pozzuoli, Italy",
-    "signature": "",
     "provenVictims": "3",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Leonarda Cianculli an Italian serial killer. Better known as the 'Soap-Maker of Correggio' she murdered three women in the town of Correggio, Reggio Emilia, between 1939 and 1940, and turned their bodies into soap and teacakes. In 1939, Cianciulli learned that her eldest son and favourite child, Giuseppe, was going to join the Italian Army in preparation for World War II. She was determined to protect him at all costs, and came to the conclusion that his safety required human sacrifices. Cianciulli found her victims in three middle-aged women, all neighbours."
 },
 
 {
     "gender": "female",
-    "name": "Marie Delphine Macarty",
+    "name": "Delphine LaLaurie",
     "alsoKnownAs": "Marie Delphine MacCarthy, Madame Blanque, Madame LaLaurie",
     "nickname": "",
     "image": "macartyPhoto",
     "dateOfBirthAndLocation": "March 19, 1787 New Orleans, Louisiana",
     "dateOfDeathAndLocation": "December 7, 1849 Paris, France",
-    "signature": "",
     "provenVictims": "12",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Delphine LaLaurie was a New Orleans Creole socialite and serial killer who tortured and murdered slaves in her household."
 },
 
 {
@@ -606,67 +518,62 @@
     "image": "ishikawaPhoto",
     "dateOfBirthAndLocation": "1897 Miyazaki, Japan",
     "dateOfDeathAndLocation": "",
-    "signature": "",
     "provenVictims": "103",
     "possibleOrConfessedVictims": "169",
-    "description": ""
-    
+    "description": "Miyuki Ishikawa a Japanese midwife and serial killer who is believed to have murdered many infants with the aid of several accomplices throughout the 1940s. It is estimated that her victims numbered between 85 and 169, however the general estimate is 103. When she was finally apprehended, the Tokyo High Court's four-year sentence she received was remarkably light considering that Miyuki's actions resulted in a death toll so high that it remains unrivaled by any other serial killer in Japan. Authorities viewed her homicides as a crime of omission. In the Tokyo District Court, Ishikawa was sentenced to eight years in prison, Takeshi and Dr. Shiro Nakayama were each sentenced to four years imprisonment. The couple appealed their sentences and in 1952 the Tokyo High Court revoked the original sentence and sentenced Ishikawa to four years in prison and Takeshi to two years. This incident is regarded as the principal reason the Japanese Government began to consider the legalisation of abortion in Japan. One of the reasons this incident was thought to have occurred was as the result of an increase in the number of unwanted infants born in Japan. On July 13, 1948, the Eugenic Protection Law (now the Mother's Body Protection Law) and a national examination system for midwives was established. On June 24, 1949, abortion for economic reasons was legalised under the Eugenic Protection Law in Japan."
 },
 
 {
     "gender": "female",
-    "name": "",
+    "name": "Renuka Shinde / Seem Gavit",
+    "alsoKnownAs": "Renuka Kiran Shinde / Seema Mohan Gavit",
     "nickname": "",
-    "image": "",
-    "dateOfBirthAndLocation": "",
+    "image": "shindeGavitPhoto",
+    "dateOfBirthAndLocation": "1973 / 1975",
     "dateOfDeathAndLocation": "",
-    "signature": "",
-    "provenVictims": "",
+    "provenVictims": "9",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
-},
-
-{
-    "gender": "",
-    "name": "",
-    "nickname": "",
-    "image": "",
-    "dateOfBirthAndLocation": "",
-    "dateOfDeathAndLocation": "",
-    "signature": "",
-    "provenVictims": "",
-    "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Seem Gavit and eldest sister Renuka Shinde were Indian serial killers convicted of kidnapping and killing five children. They were charged with thirteen cases of kidnapping and nine murders. The sessions court found them guilty of kidnapping and murdering of six children. The High Court has given verdict that the prosecution proved five of the cases and confirmed the death sentence. The Supreme Court of India rejected their appeal and sentenced them to death. Their mercy plea to the President of India was also rejected."
 },
 
 {
     "gender": "female",
-    "name": "",
+    "name": "Amelia Dyer",
+    "alsoKnownAs": "Amelia Elizabeth Dyer, Amelia Elizabeth Hobley",
     "nickname": "",
-    "image": "",
-    "dateOfBirthAndLocation": "",
-    "dateOfDeathAndLocation": "",
-    "signature": "",
-    "provenVictims": "",
-    "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "image": "dyerPhoto",
+    "dateOfBirthAndLocation": "1836 Bristol, United Kingdom",
+    "dateOfDeathAndLocation": "June 10, 1896 Newgate Prison, England",
+    "provenVictims": "6",
+    "possibleOrConfessedVictims": "200 - 400 +",
+    "description": "Amelia Dyer was an English serial killer who murdered infants in her care over a thirty-year period during the Victorian period of the United Kingdom. Trained as a nurse and widowed in 1869, Dyer turned to baby farming—the practice of adopting unwanted infants in exchange for money—to support herself. She initially cared for the children legitimately, in addition to having two of her own, but whether intentionally or not a number of them died in her care, leading to a conviction for neglect and six months' hard labour. She then began directly murdering children she 'adopted', strangling at least some of them, and disposing of the bodies to avoid attention. 
+    Dyer case led to stricter laws for adoption and child protection, and also helped raise the profile of the fledgling National Society for the Prevention of Cruelty to Children (NSPCC), which formed in 1884."
 },
 
 {
     "gender": "female",
-    "name": "",
-    "nickname": "",
-    "image": "",
-    "dateOfBirthAndLocation": "",
-    "dateOfDeathAndLocation": "",
-    "signature": "",
-    "provenVictims": "",
+    "name": "Lydia Sherman",
+    "alsoKnownAs": "",
+    "nickname": "The Derby Poisoner",
+    "image": "shermanPhoto",
+    "dateOfBirthAndLocation": "December 24, 1824 Burlington, New Jersey",
+    "dateOfDeathAndLocation": "May 16, 1878 Wethersfield State Prison, Connecticut",
+    "provenVictims": "12",
     "possibleOrConfessedVictims": "",
-    "description": ""
-    
+    "description": "Lydia Sherman also known as The Derby Poisoner, was an American serial killer. She poisoned eight children in her care (six of which were her own) and her three husbands and was convicted of second-degree murder in 1872. Five years into her sentence, she escaped under the pretext of being sick and got a job as housekeeper to a rich widower in Providence. She was caught and imprisoned again before dying in Wethersfield State Prison on May 16, 1878 from cancer."
+},
+
+{
+    "gender": "female",
+    "name": "Jeanne Weber",
+    "alsoKnownAs": "",
+    "nickname": "",
+    "image": "weberPhoto",
+    "dateOfBirthAndLocation": "October 7, 1874 France",
+    "dateOfDeathAndLocation": "July 5, 1918 Fains-Véel, France",
+    "provenVictims": "6",
+    "possibleOrConfessedVictims": "",
+    "description": "Jeanne Weber was a French serial killer. She strangled at least 10 children, including her own. She was both convicted of murder and declared insane in 1908; she hanged herself ten years later."
 }
 ]
 

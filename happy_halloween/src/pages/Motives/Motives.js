@@ -18,7 +18,7 @@ const Motives = () => {
                     <div className="flex-box">
                         <div className="flex-box-item">
                             <h2 className="mission-title">Mission</h2>
-                                <p className="decription-of-mission">Mission - Oriented killers typically justify their
+                                <p className="decription-of-mission">Mission - Oriented killers typically   justify their
                                     acts as "ridding the world" of certain types of people perceived as undesirable, 
                                     such as the homeless, ex-cons, homosexuals, drug users, prostitutes, or people of 
                                     different ethnicity or religion; however, they are generally not psychotic. Some 

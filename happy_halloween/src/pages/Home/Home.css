@@ -1,0 +1,17 @@
+/* #spiderContainer {
+    animation: stroll 30s linear infinite;
+}
+
+#walk,
+#legOneRight {
+  animation: walkanim 1s linear steps(7);
+}
+
+@keyframes stroll {
+    from {transform: translateX(-100%);}
+    to {transform: translateX(500%);}
+}
+
+@keyframes walkanim {
+    to { background-position: 100% 0; }
+  } */

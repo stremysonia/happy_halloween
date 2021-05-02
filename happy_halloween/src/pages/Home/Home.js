@@ -1,17 +1,15 @@
 import React from 'react';
 import './Home.css';
-// import EnterButton from '../../components/EnterButton/EnterButton'
-
+import EnterButton from '../../components/EnterButton/EnterButton';
+import Spider from '../../components/Spider/Spider'
+// import tarantula from '../../assets/tarantula.png'
+// import Warning from '../../components/Warning/Warning'
 
 const Home = () => {
         return (
                 <>
-                        {/* <Navbar></Navbar> */}
-                        {/* <EnterButton/> */}
-                     
-                        {/* <Spider/> */}
-                        {/* <GoldenTarantula className="golden" color="red" width="500px"></GoldenTarantula> */}
-                       
+                        <Spider/>
+                        <EnterButton/>
                 </>
         );
 }
