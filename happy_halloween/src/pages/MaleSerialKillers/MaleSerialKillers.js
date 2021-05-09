@@ -33,9 +33,9 @@ const MaleSerialKillers = () => {
           }, [])
 // [] Allows the data to only run one time
         return (
-            <>
+            <div className="malecard-container">
                 <MaleCards killerdata={data}/>
-            </>
+            </div>
     );
 }
 export default MaleSerialKillers;
